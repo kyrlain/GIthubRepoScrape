@@ -1,0 +1,1114 @@
+Author,Repo Name,Description,Programming Language,Stars,Fork,Top Contributors,Stars Today
+jwasham,coding-interview-university,A complete computer science study plan to become a software engineer.,Unknown Language,315614,78548,"jwasham, Anri-Lombard, avizmarlon, esaucedof, Ilyushin",335
+cloudcommunity,Free-Certifications,A curated list of free courses with certifications. Also available at https://free-certifications.com/,Unknown Language,29885,2193,"karentamrazyan, CloudStudyNet, diogomurta, sykezz, oldphones68",66
+jujumilk3,leaked-system-prompts,Collection of leaked system prompts,Unknown Language,2519,347,"jujumilk3, accupham, OneTop4458, JakubKontra, jmcph4",61
+khangich,machine-learning-interview,"Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.",Unknown Language,10702,1734,"khangich, liuvivian11, aragorn87, cuongvng, vineettanna",38
+weeeBox,mobile-system-design,A simple framework for mobile system design interviews,Unknown Language,4666,494,"weeeBox, AndreiVidrasco, husaynhakeem",5
+payloadbox,xss-payload-list,🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List,Unknown Language,6977,1782,"sebix, cryptonautical, madneal, Xib3rR4dAr",19
+PatrickJS,awesome-cursorrules,📄 A curated list of awesome .cursorrules files,Unknown Language,23022,1759,"PatrickJS, ikhare, tks-00, endolith, martinklepsch",165
+TechHutTV,homelab,"Homelab stacks, templates, and more fun resources!",Unknown Language,629,77,"TechHutTV, bobbyb2024, absent42, therumbler, alexneo2003",10
+microsoft,sql-server-samples,"Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge",Unknown Language,10399,8993,"uc-msft, jodebrui, JocaPC, anosov1960, dependabot",3
+Pr-Mex,vanessa-automation,BDD в 1С,1C Enterprise,525,205,"Pr-Mex, lintest, fenixnow, CryptKat, KrapivinAndrey",0
+cpr1c,tools_ui_1c,Универсальные инструменты 1С для управляемых форм,1C Enterprise,826,245,"LevkinSergey, free-archer, Oleg1085, JohnyDeath, VolAll",2
+abapGit,abapGit,Git client for ABAP,ABAP,1611,550,"larshp, mbtools, christianguenter2, sbcgua, eduardocopat",0
+abap2xlsx,abap2xlsx,Generate your professional Excel spreadsheet from ABAP,ABAP,760,294,"ivanfemia, sandraros, gregorwolf, larshp, AndreaBorgia-Abo",0
+easylist,easylist,"EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)",Adblock Filter List,2436,753,"ryanbr, Khrin, monzta, nitrox, smed79",0
+AdguardTeam,FiltersRegistry,Known filters subscriptions transformed for better compatibility with AdGuard,Adblock Filter List,271,55,"github-actions, slavaleleka, Alex-302, zloyden, Mizzick",0
+microsoft,ALAppExtensions,Repository for collaboration on Microsoft AL application add-on and localization extensions for Microsoft Dynamics 365 Business Central.,AL,857,645,"JesperSchulz, mazhelez, aholstrup1, darjoo, IhorHandziuk",1
+antlr,grammars-v4,Grammars written for ANTLR v4; expectation that the grammars are free of actions.,ANTLR,10551,3751,"teverett, KvanTTT, kaby76, parrt, dependabot",3
+scm-ninja,starter-web,Simple starting point website project based upon Initializr,ApacheConf,416,20275,"jasongtaylor, awesomejt",0
+jongpie,NebulaLogger,"The most robust observability solution for Salesforce experts. Built 100% natively on the platform, and designed to work seamlessly with Apex, Lightning Components, Flow, OmniStudio, and integrations.",Apex,760,185,"jongpie, jamessimone, TrangOul, JMercie, alanjaouen",1
+netwide-assembler,nasm,A cross-platform x86 assembler with an Intel-like syntax,Assembly,2706,347,"cyrillos, victorvde, jtkukunas, martinlindhe, changsbae",4
+apple,swift-nio-ssl,"TLS Support for SwiftNIO, based on BoringSSL.",Assembly,400,149,"Lukasa, glbrntt, weissi, dnadoba, rnro",0
+kanaka,mal,mal - Make a Lisp,Assembly,10251,2607,"kanaka, bjh21, asarhaddon, dubek, wasamasa",2
+openhwgroup,cva6,The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux,Assembly,2442,750,"zarubaf, JeanRochCoulon, msfschaffner, MikeOpenHWGroup, AyoubJalali",1
+giaf,blasfeo,Basic linear algebra subroutines for embedded optimization,Assembly,356,90,"giaf, tmmsartor, roversch, zanellia, RSchwan",0
+apple,swift-crypto,Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.,Assembly,1523,172,"Lukasa, simonjbeaumont, Sajjon, rnro, compnerd",0
+espressif,esp-dl,Espressif deep-learning library for AIoT applications,Assembly,687,139,"sun-xiangyu, BlueSkyB, 100312dog, shenxiaozheng, Ginosko-mia",1
+ROCm,hipBLASLt,hipBLASLt is a library that provides general matrix-matrix operations with a flexible API and extends functionalities beyond a traditional BLAS library,Assembly,91,117,"KKyang, jichangjichang, aazz44ss, vin-huang, Serge45",0
+aws,aws-lc,AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.,Assembly,489,129,"davidben, agl, jargh, samuel40791765, justsmth",0
+BLAKE3-team,BLAKE3,the official Rust and C implementations of the BLAKE3 cryptographic hash function,Assembly,5515,377,"oconnor663, sneves, veorq, BurningEnlightenment, mkrupcale",3
+riscvarchive,riscv-v-spec,Working draft of the proposed RISC-V V vector extension,Assembly,1020,280,"kasanovic, aswaterman, colinschmidt, drom, a0u",0
+briansmith,ring,An experiment.,Assembly,3922,747,"davidben, briansmith, agl, dvorak42, nharper",2
+boostorg,context,,Assembly,323,159,"olk, eldiener, grafikrobot, Kojoley, pdimov",0
+supranational,blst,Multilingual BLS12-381 signature library,Assembly,511,194,"dot-asm, simonatsn, sean-sn, kirk-baird, hellosupranational",0
+bird-sanctuary,bluejay,🐦 Digital ESC firmware for controlling brushless motors in multirotors,Assembly,376,45,"mathiasvr, stylesuxx, damosvil, hyp0dermik-code, saidinesh5",1
+chrislgarry,Apollo-11,Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.,Assembly,61678,7189,"wopian, chrislgarry, dwiyatci, proudindiv, oldmud0",8
+ColorlibHQ,AdminLTE,AdminLTE - Free admin dashboard template based on Bootstrap 5,Astro,44517,18195,"REJack, almasaeed2010, dependabot, danny007in, XhmikosR",4
+onwidget,astrowind,⭕️ AstroWind: A free template using Astro 5 and Tailwind CSS. Astro starter theme.,Astro,4478,1282,"prototypa, widgeter, ladunjexa, phanect, ShoGinn",8
+satnaing,astro-paper,"A minimal, accessible and SEO-friendly Astro blog theme",Astro,3216,640,"satnaing, dependabot, tanishqmanuja, eerison, 87xie",6
+saicaca,fuwari,✨A static blog template built with Astro.,Astro,2182,532,"saicaca, L4Ph, dependabot, wsafight, JoeyC-Dev",7
+netlify-templates,astro-platform-starter,"A modern starter based on Astro.js, Tailwind CSS, and Netlify Core Primitives (Edge Functions, Image CDN, Blob Store).",Astro,64,101,"renovate, TomasBankauskas, dependabot, eladroz, serhalp",0
+WeijieH,D3keyHelper,D3KeyHelper是一个有图形界面，可自定义配置的暗黑3鼠标宏工具。,AutoHotkey,281,62,"WeijieH, EthanChiao, jiaoyixuan",4
+NatroTeam,NatroMacro,A Bee Swarm Simulator macro for Windows,AutoHotkey,1581,167,"zspz, Noobyguy775, djravine, rpertusio, dependabot",5
+Bioruebe,UniExtract2,Universal Extractor 2 is a tool to extract files from any type of archive or installer.,AutoIt,3822,356,"Bioruebe, hevesij, SeaHOH, maboroshin, YuriPet",2
+rcmaehl,MSEdgeRedirect,"A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser",AutoIt,4545,101,"rcmaehl, gnpaone, Macleykun, dependabot, sitiom",3
+Flowseal,zapret-discord-youtube,,Batchfile,12287,802,"Flowseal, V3nilla, fridorin, amozebus, burnedoutman",49
+enhorse,java-interview,Вопросы и ответы к интервью Java разработчика,Batchfile,5618,2005,"KhArtNJava, enhorse, Cupcake-master, lehaSVV2009, andrii-ashomok",5
+RockBlack-VPN,ip-address,"ip address - Youtube, Instagtam, Twitter, Netflix",Batchfile,687,47,"RockBlack-VPN, antonjuice, blacksnake-rus, belomv, alekssamos",5
+Azure,azure-cosmos-db-emulator-docker,"This repo serves as hub for managing issues, gathering feedback, and having discussions regarding the Cosmos DB Emulator Docker.",Batchfile,186,48,"arramac, milismsft, TheovanKraay, aliuy, xgerman",0
+Systems-Modeling,SysML-v2-Release,The latest incremental release of SysML v2. Start here.,Batchfile,544,73,"seidewitz, manasbajaj",1
+CesiumGS,3d-tiles,Specification for streaming massive heterogeneous 3D geospatial datasets 🌎,Batchfile,2247,479,"pjcozzi, lilleyse, javagl, lasalvavida, ggetz",0
+Alex313031,Thorium-Win,Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium,Batchfile,1838,42,"Alex313031, eltociear",1
+lstprjct,IDM-Activation-Script,IDM Activation & Trail Reset Script,Batchfile,12004,1700,"lstprjct, LazyDevv, sirpeealot",17
+redis-windows,redis-windows,Redis 6.0.20 6.2.14 7.0.15 7.2.4 7.4.0 for Windows,Batchfile,2023,188,"yes8080, jmos5156, mokecc, shogun-kub",6
+PaperMC,Folia,Fork of Paper which adds regionised multithreading to the dedicated server.,Batchfile,3829,505,"Spottedleaf, jpenilla, DenWav, kennytv, MiniDigger",2
+acl-org,acl-style-files,Official style files for papers submitted to venues of the Association for Computational Linguistics,BibTeX Style,1038,224,"mjpost, davidweichiang, bethard, danielgildea, LSinev",3
+Azure,azure-quickstart-templates,Azure Quickstart Templates,Bicep,14362,16270,"bmoore-msft, akhilthomas011, alex-frankel, MCKLMT, marcvaneijk",5
+Azure,bicep-registry-modules,Bicep registry modules,Bicep,586,436,"AlexanderSehr, eriqua, krbar, ChrisSidebotham, shenglol",2
+Azure-Samples,get-started-with-ai-agents,Basic sample for deploying AI agents web app with Azure AI Foundry and SDKs,Bicep,41,37,"howieleung, nick863, sophia-ramsey, jhakulin, M-Hietala",2
+github-copilot-resources,copilot-metrics-viewer,Tool to visualize the Copilot metrics provided via the Copilot Business Metrics API (current in public beta),Bicep,436,218,"martedesco, karpikpl, DevOps-zhuang, dependabot, jycr",1
+Azure-Samples,msdocs-nodejs-mongodb-azure-sample-app,A sample Express.js app using a MongoDB database to show how to host Node.js app in Azure App service using Azure Cosmos DB,Bicep,33,836,"DavidCBerry13, microsoftopensource, dfberry, cephalin, diberry",0
+Azure,bicep,Bicep is a declarative language for describing and deploying Azure resources,Bicep,3349,776,"dependabot, anthony-c-martin, StephenWeatherford, majastrz, shenglol",0
+microsoft,azure-container-apps,Roadmap and issues for Azure Container Apps,Bicep,399,35,"kendallroden, ruslany, torosent, dariagrigoriu, microsoftopensource",0
+Azure,ALZ-Bicep,This repository contains the Azure Landing Zones (ALZ) Bicep modules that help deliver and deploy the Azure Landing Zone conceptual architecture in a modular approach. https://aka.ms/alz/docs,Bicep,802,534,"jtracey93, oZakari, github-actions, dependabot, jfaurskov",1
+Azure,GPT-RAG,"Sharing the learning along the way we been gathering to enable Azure OpenAI at enterprise scale in a secure manner. GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.",Bicep,994,227,"placerda, gbecerra1982, Martin-Sciarrillo, vladborys, vhvb1989",1
+SonarSource,sonar-scanning-examples,Shows how to use the Scanners,Bicep,907,2270,"joe-tingsanchali-sonarsource, okorach, jeff-zapotoczny-sonarsource, sylvain-combe-sonarsource, francoismora",0
+Azure-Samples,get-started-with-ai-chat,Basic sample for deploying chat web apps with Azure AI Foundry and SDKs,Bicep,61,85,"nick863, howieleung, qubitron, pamelafox, M-Hietala",0
+microsoft,build-your-first-agent-with-azure-ai-agent-service-workshop,Build your first agent with Azure AI Agent Service Workshop,Bicep,192,293,"gloveboxes, github-actions, aaronpowell, revodavid, marlenezw",5
+w3c,csswg-drafts,CSS Working Group Editor Drafts,Bikeshed,4636,707,"fantasai, tabatkins, bert-github, svgeesus, frivoal",2
+gpuweb,gpuweb,Where the GPU for the Web work happens!,Bikeshed,4990,326,"github-actions, kainino0x, dneto0, toji, alan-baker",3
+openembedded,openembedded-core,The official Git repository is at https://git.openembedded.org/openembedded-core/.,BitBake,389,515,"rpurdie, rossburton, kanavin, kraj, wangmingyu84",1
+openembedded,meta-openembedded,,BitBake,434,747,"kraj, wangmingyu84, shr-project, schnitzeltony, leon-anavi",1
+rauc,meta-rauc,"Yocto/Open Embedded meta layer for RAUC, the embedded Linux update framework",BitBake,181,97,"ejoerns, jluebbe, OnkelUlla, mschwan-phytec, mnhu",1
+Xilinx,meta-xilinx,Collection of Yocto Project layers to enable AMD Xilinx products,BitBake,154,137,"mhatle, nathanrossi, grsandeep85, ckalluri73, kedareswararao",0
+OE4T,meta-tegra,"BSP layer for NVIDIA Jetson platforms, based on L4T",BitBake,459,247,"madisongh, kekiefer, ichergui, dwalkes, kraj",0
+openbmc,openbmc,OpenBMC Distribution,BitBake,2113,958,"williamspatrick, geissonator, bradbishop, shenki, wak-google",1
+rust-embedded,meta-rust-bin,Yocto layer for installing Rust toolchain from pre-built binaries,BitBake,116,73,"posborne, nastevens, eldruin, otavio, eric-seppanen",0
+aws4embeddedlinux,meta-aws,The metadata layer for baking AWS device software to Embedded Linux distributions built by the Yocto Project build system.,BitBake,131,87,"aws-iot-embedded-linux-ci, thomas-roos, rpcme, nateglims, nenadilic84",0
+balena-os,balena-jetson,,BitBake,47,24,"acostach, balena-ci, flowzone-app, balena-renovate",0
+balena-os,balena-allwinner,,BitBake,20,14,"balena-renovate, flowzone-app, balena-ci, renovate-bot",0
+kraj,meta-openwrt,OE/Yocto metadata layer for OpenWRT,BitBake,113,80,"danielfdickinson, kraj, troth, fbertux, nquest",0
+Freescale,meta-freescale-3rdparty,OpenEmbedded/Yocto BSP layer for Freescale's ARM based platforms,BitBake,96,531,"otavio, fbertux, MaxKrummenacher, ericnelsonaz, iancoolidge89",0
+meta-rust,meta-rust,OpenEmbedded/Yocto layer for Rust and Cargo,BitBake,222,131,"codyps, cardoe, srwalter, derekstraka, janderholm",0
+Freescale,meta-freescale,Layer containing NXP hardware support metadata,BitBake,183,270,"otavio, thochstein, guochunrong, zandrey, ting-liu",0
+krayin,laravel-crm,Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.,Blade,14114,1012,"jitendra-webkul, suraj-webkul, devansh-webkul, shivendra-webkul, amit-webkul",20
+laravel,laravel,"Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.",Blade,80666,24319,"taylorotwell, driesvints, GrahamCampbell, daylerees, franzliedke",10
+lsky-org,lsky-pro,☁️兰空图床(Lsky Pro) - Your photo album on the cloud.,Blade,4366,627,"0xxb, dependabot, zhendery, ctaoist, qyhfrank",4
+laravel,livewire-starter-kit,,Blade,291,110,"taylorotwell, tnylea, Rattone, realpoke, 3adeling",2
+livewire,flux,The official Livewire UI component library,Blade,694,66,"calebporzio, joshhanley, bensherred, SRWieZ, idealerror",1
+u-boot,u-boot,"""Das U-Boot"" Source Tree",C,4391,3868,"sjg20, trini, xypron, wdenx, masahir0y",7
+redcanaryco,atomic-red-team,Small and highly portable detection tests based on MITRE's ATT&CK.,C,10469,2904,"clr2of8, MHaggis, cyberbuff, patel-bhavin, josehelps",8
+flipperdevices,flipperzero-firmware,Flipper Zero firmware source code,C,14099,2947,"skotopes, hedger, DrZlo13, gornekich, glitchcore",22
+coturn,coturn,coturn TURN server project,C,12229,2105,"misi, tyranron, mom040267, eakraly, ggarber",8
+eclipse-mosquitto,mosquitto,Eclipse Mosquitto - An open source MQTT broker,C,9640,2471,"ralight, karlp, PierreF, abiliojr, Hallot",7
+FreeRDP,FreeRDP,FreeRDP is a free remote desktop protocol library and clients,C,11645,15047,"akallabeth, awakecoding, bmiklautz, hardening, mfleisz",21
+DarkFlippers,unleashed-firmware,Flipper Zero Unleashed Firmware,C,19098,1578,"xMasterX, skotopes, hedger, gornekich, DrZlo13",11
+curl,curl,"A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",C,37686,6674,"bagder, yangtse, captain-caveman2k, vszakats, dfandrich",11
+OpenMathLib,OpenBLAS,OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.,C,6704,1552,"martin-frbg, xianyi, wernsaar, hpanderson, wjc404",9
+RediSearch,RediSearch,"A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations.",C,5754,542,"dvirsky, mnunberg, ashtul, MeirShpilraien, rafie",2
+mcu-tools,mcuboot,Secure boot for 32-bit Microcontrollers!,C,1483,746,"utzig, d3zd3z, nordicjm, nvlsianpu, de-nordic",1
+NVIDIA,cuda-samples,Samples for CUDA Developers which demonstrates features in CUDA Toolkit,C,7335,2011,"rwarmstr, XSShawnZeng, mdoijade, Ru7w1k, jnbntz",8
+confluentinc,librdkafka,The Apache Kafka C/C++ library,C,579,3192,"edenhill, emasab, rondagostino, paravoid, mhowlett",2
+eadmaster,pcrown,Princess Crown Translation GPL Edition,C,177,9,"eadmaster, MiYakuGaming, cyberwarriorx",6
+linux-can,can-utils,Linux-CAN / SocketCAN user space applications,C,2573,738,"marckleinebudde, hartkopp, olerem, yegorich, gerasiov",3
+zephyrproject-rtos,zephyr,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",C,11942,7259,"nashif, jukkar, galak, gmarull, cvinayak",4
+erincatto,box2d,Box2D is a 2D physics engine for games,C,8740,1617,"erincatto, wub, sbeca, flyover, zammitjames",2
+debevv,nanoMODBUS,A compact MODBUS RTU/TCP C library for embedded/microcontrollers,C,464,104,"debevv, donghoonpark, jonathangjertsen, malem-robotiq, arhiv6",9
+Mbed-TLS,mbedtls,"An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",C,5833,2679,"gilles-peskine-arm, mpg, daverodgman, ronald-cron-arm, valeriosetti",3
+libgit2,libgit2,"A cross-platform, linkable library implementation of Git that you can use in your application.",C,9954,2469,"ethomson, carlosmn, pks-t, vmg, arrbee",1
+raspberrypi,pico-sdk,,C,4165,1054,"kilograham, lurch, Wren6991, peterharperuk, liamfraser",5
+builtbybel,Flyby11,Windows 11 Upgrading Assistant,C#,1561,102,"Belim, bovirus, rdavydov, jacobnicked, navjotjsingh",18
+Flow-Launcher,Flow.Launcher,🔍 Quick file search & app launcher for Windows with community-made plugins,C#,9542,361,"jjw24, onesounds, taooceros, Jack251970, VictoriousRaptor",43
+Tyrrrz,YoutubeDownloader,Downloads videos and playlists from YouTube,C#,11193,1472,"Tyrrrz, dependabot, mustafacagataytulun, derech1e, xBaank",16
+dotnet,efcore,"EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.",C#,14051,3252,"ajcvickers, dotnet-maestro, smitpatel, AndriySvyryd, bricelam",0
+actions,runner,The Runner for GitHub Actions 🚀,C#,5251,1045,"TingluoHuang, thboop, fhammerl, ericsciple, dependabot",2
+microsoft,semantic-kernel,Integrate cutting-edge LLM technology quickly and easily into your apps,C#,24146,3743,"markwallace-microsoft, dependabot, moonbox3, dmytrostruk, shawncal",25
+microsoft,Generative-AI-for-beginners-dotnet,"Five lessons, learn how to really apply AI to your .NET Applications",C#,1126,806,"elbruno, PabloNunes, codemillmatt, hyoshioka0128, jt-216",18
+NethermindEth,nethermind,A robust execution client for Ethereum node operators.,C#,1384,511,"tkstanczak, LukaszRozmej, matilote, benaadams, asdacap",1
+FlaxEngine,FlaxEngine,Flax Engine – multi-platform 3D game engine,C#,6129,592,"mafiesto4, Tryibion, GoaLitiuM, jb-perrier, Menotdan",14
+radzenhq,radzen-blazor,"Radzen Blazor is a set of 90+ free native Blazor UI components packed with DataGrid, Scheduler, Charts and robust theming including Material design and FluentUI.",C#,3881,868,"enchev, yordanov, akorchev, glutio, MPapst",4
+dnnsoftware,Dnn.Platform,DNN (formerly DotNetNuke) is the leading open source web content management platform (CMS) in the Microsoft ecosystem.,C#,1061,758,"kanm2015, cnurse, valadas, bdukes, zyhfish",0
+MudBlazor,MudBlazor,Blazor Component Library based on Material Design principles with an emphasis on ease of use and extensibility,C#,8944,1411,"Garderoben, henon, ScarletKuro, danielchalmers, dependabot",2
+DapperLib,Dapper,Dapper - a simple object mapper for .Net,C#,17845,3681,"mgravell, NickCraver, SamSaffron, johandanforth, vosen",1
+leiurayer,downkyi,哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。,C#,22649,2441,"leiurayer, xisuo67, yaobiao131, wtywtykk, MoguCloud",11
+AzureAD,microsoft-identity-web,Helps creating protected web apps and web APIs with Microsoft identity platform and Azure AD B2C,C#,726,229,"jennyf19, jmprieur, dependabot, pmaytak, westin-m",0
+Azure,azure-powershell,Microsoft Azure PowerShell,C#,4416,3966,"markcowl, cormacpayne, maddieclayton, MiYanni, huangpf",0
+AzureAD,microsoft-authentication-library-for-dotnet,Microsoft Authentication Library (MSAL) for .NET,C#,1438,360,"bgavrilMS, trwalke, gladjohn, MarkZuber, pmaytak",0
+microsoft,sbom-tool,The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts.,C#,1764,155,"dependabot, DaveTryon, aasim, sebasgomez238, JamieMagee",0
+openiddict,openiddict-core,Flexible and versatile OAuth 2.0/OpenID Connect stack for .NET,C#,4764,554,"kevinchalet, openiddict-bot, henkmollema, gehongyan, damccull",3
+louthy,language-ext,C# pure functional programming framework - come and get declarative!,C#,6766,433,"louthy, TysonMN, blakeSaucier, StefanBertels, Jagged",2
+dotnet,maui,".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",C#,22616,1818,"rmarinho, PureWeen, mattleibow, jsuarezruiz, hartez",4
+microsoft,BitNet,Official inference framework for 1-bit LLMs,C++,16486,1186,"potassiummmm, younesbelkada, tsong-ms, dawnmsg, sd983527",730
+protocolbuffers,protobuf,Protocol Buffers - Google's data interchange format,C++,67362,15683,"haberman, protobuf-github-bot, protobuf-team-bot, mkruskal-google, xfxyjwf",21
+apache,brpc,"brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. ""brpc"" means ""better RPC"".",C++,16969,4010,"jamesge, zyearn, chenBright, wwbmmm, TousakaRin",19
+lammps,lammps,Public development project of the LAMMPS MD software package,C++,2431,1802,"akohlmey, stanmoore1, rbberger, jrgissing, jtclemm",10
+ggml-org,llama.cpp,LLM inference in C/C++,C++,78655,11497,"ggerganov, slaren, JohannesGaessler, ngxson, cebtenzzre",93
+hluk,CopyQ,Clipboard manager with advanced features,C++,9599,466,"hluk, weblate, rygwdn, m4r71n, comradekingu",23
+WerWolv,ImHex,"🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",C++,48588,2104,"WerWolv, iTrooz, paxcut, marysaka, xtexx",97
+firebase,firebase-ios-sdk,Firebase SDK for Apple App Development,C++,6132,1580,"paulb777, wilhuff, ncooke3, andrewheard, ryanwilson",2
+ZLMediaKit,ZLMediaKit,WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11,C++,14948,3625,"xia-chu, xiongguangjie, wasphin, Dw9, baiyfcu",13
+facebook,folly,An open-source C++ library developed and used at Facebook.,C++,29292,5685,"yfeldblum, Orvid, ot, simpkins, andriigrynenko",4
+risc0,risc0,RISC Zero is a zero-knowledge verifiable general computing platform based on zk-STARKs and the RISC-V microarchitecture.,C++,1852,538,"flaub, SchmErik, dependabot, nategraf, tzerrell",5
+kuzudb,kuzu,Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.,C++,2258,145,"andyfengHKU, acquamarin, ray6080, mewim, benjaminwinger",17
+google,highway,"Performance-portable, length-agnostic SIMD with runtime dispatch",C++,4561,344,"copybara-service, jan-wassenberg, copybara-github, johnplatts, dependabot",4
+owasp-modsecurity,ModSecurity,"ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis.",C++,8762,1646,"zimmerle, brenosilva, martinhsv, airween, eduar-hte",2
+gabime,spdlog,Fast C++ logging library.,C++,25945,4747,"gabime, Gabi120, sylveon, DanielChabrowski, mguludag",12
+Tencent,rapidjson,A fast JSON parser/generator for C++ with both SAX/DOM style API,C++,14651,3577,"miloyip, pah, thebusytypist, ylavic, StilesCrisis",4
+llvm,torch-mlir,The Torch-MLIR project aims to provide first class support from the PyTorch ecosystem to the MLIR ecosystem.,C++,1504,542,"silvasean, stellaraccident, vivekkhandelwal1, rsuderman, qingyunqu",3
+CoatiSoftware,Sourcetrail,Sourcetrail - free and open-source interactive source explorer,C++,15917,1529,"egraether, mlangkabel, st4ll1, wrongway88, jubalh",55
+nlohmann,json,JSON for Modern C++,C++,45353,6950,"nlohmann, theodelrieu, falbrechtskirchinger, Teemperor, dependabot",18
+worawit,blutter,Flutter Mobile Application Reverse Engineering Tool,C++,1468,209,"worawit, flyingwr, AbhiTheModder, DavidBuchanan314, atuncer",12
+MAZHARMIK,Interview_DS_Algo,Super Repository for Coding Interview Preperation,C++,2292,1226,"MAZHARMIK, MAZHAR-TOKOPEDIA",2
+google,perfetto,"Performance instrumentation and tracing for Android, Linux and Chrome",C++,3601,435,"LalitMaganti, primiano, chromy, fmayer, stevegolton",27
+selfxyz,self,Prove your self,Circom,455,84,"remicolin, 0xturboblitz, motemotech, seshanthS, Nesopie",1
+penpot,penpot,Penpot: The open-source design tool for design and code collaboration,Clojure,37713,1941,"niwinz, Alotor, superalex, hirunatan, EvaMarco",25
+logseq,logseq,"A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap",Clojure,36133,2125,"tiensonqin, xyhp915, andelf, sprocketc, pengx17",36
+metabase,metabase,The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊,Clojure,41690,5519,"camsaul, tlrobinson, agilliland, nemanjaglumac, kdoh",14
+cognitect-labs,test-runner,A test runner for clojure.test,Clojure,291,34,"puredanger, levand, mainej, ghadishayban, enaeher",0
+nubank,clj-github,A Clojure library for interacting with the github developer API,Clojure,71,4,"philomates, rfhayashi, franpilot, andrepoleza, hlship",0
+nubank,matcher-combinators,Library for creating matcher combinator to compare nested data structures,Clojure,484,25,"philomates, dchelimsky, rafaeldff, gilvan-reis, fernando-nubank",0
+nubank,state-flow,Integration testing framework using a state monad in the backend for building and composing flows,Clojure,346,15,"dchelimsky, caioaao, philomates, nu-go, ericdallo",0
+nubank,workspaces,Live development environment for Clojurescript,Clojure,512,25,"wilkerlucio, felipethome, IsabelaY, ericdallo, dependabot",0
+nubank,k8s-api,"Kubernetes client, data driven",Clojure,155,13,"RafaeLeal, franpilot, mateusduboli, alan-ghelardi",0
+ros-controls,control_msgs,contains base messages and actions useful for controlling robots,CMake,59,68,"bmagyar, christophfroehlich, github-actions, dependabot, destogl",0
+autowarefoundation,autoware_msgs,,CMake,24,58,"kenji-miyake, awf-autoware-bot, pre-commit-ci, xmfcx, isamu-takagi",0
+corrosion-rs,corrosion,Marrying Rust and CMake - Easy Rust and C/C++ Integration!,CMake,1231,117,"jschwe, AndrewGaspar, tronical, ogoffart, LeonMatthesKDAB",0
+ros-planning,navigation_msgs,Message packages required by the navigation stack,CMake,44,52,"clalancette, wjwwood, stephanemagnenat, SteveMacenski, mikeferguson",0
+microsoft,vcpkg,"C++ Library Manager for Windows, Linux, and MacOS",CMake,24578,6808,"alexkaratarakis, ras0219-msft, BillyONeal, dg0yt, JackBoosY",6
+shinchiro,mpv-winbuild-cmake,CMake-based MinGW-w64 Cross Toolchain,CMake,863,135,"shinchiro, mia-0, zhongfly, myfreeer, NotTsunami",1
+bilke,cmake-modules,Additional CMake functionality. Most of the modules are from Ryan Pavlik (https://github.com/rpavlik/cmake-modules),CMake,561,222,"bilke, ferdnyc, FranzBranntvino, psalaberria002, tafryn",0
+steinbergmedia,vst3sdk,VST 3 Plug-In SDK,CMake,1735,173,"ygrabit, scheffle, Msixty7",2
+TheRobotStudio,SO-ARM100,Standard Open Arm 100,CMake,1434,102,"TheRobotStudio, pkooij, Cadene, philfung, cmcgartoll",7
+openmainframeproject,cobol-programming-course,"Training materials and labs for a ""Getting Started"" level course on COBOL",COBOL,3191,622,"MikeBauerCA, tanto259, Sudharsana-Srinivasan, vargajb, klausmelcher",2
+github,codeql,"CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security",CodeQL,8237,1658,"erik-krogh, geoffw0, MathiasVP, hvitved, asgerf",3
+slackapi,hubot-slack,Slack Developer Kit for Hubot,CoffeeScript,2304,644,"aoberoi, grantmd, shaydewael, seratch, paulhammond",0
+lucassus,angular-coffee-seed,AngularJS seed based on grunt JavaScript tasks runner and bower a package manager for the web,CoffeeScript,34,9,"lucassus, tacoprophet, waffleio",0
+adaltas,node-csv,Full featured CSV parser with simple api and tested against large datasets.,CoffeeScript,4135,270,"wdavidw, yonilerner, ajaz-rehman, kibertoad, drdmitry",2
+dimitri,pgloader,Migrate to PostgreSQL in a single command!,Common Lisp,5738,571,"dimitri, df7cb, dpanech, klando, phoe",5
+atlas-engineer,nyxt,Nyxt - the hacker's browser.,Common Lisp,10360,433,"Ambrevar, jmercouris, aartaka, aadcg, vindarel",4
+iv-org,invidious,Invidious is an alternative front-end to YouTube,Crystal,17148,1934,"omarroth, SamantazFox, weblate, syeopite, TheFrenchGhosty",4
+crystal-lang,crystal,The Crystal Programming Language,Crystal,19740,1633,"straight-shoota, HertzDevil, asterite, waj, jhass",3
+vitobotta,hetzner-k3s,The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.,Crystal,2339,163,"vitobotta, derlinuxer, jpetazzo, mgalesloot, jrudolph",0
+spring-projects,spring-petclinic,A sample Spring-based application,CSS,8158,25127,"dsyer, arey, snicoll, bclozel, patbaumgartner",10
+sapondanaisriwan,AdashimaaTube,Restore old Youtube layout in 2021-2022 with many customizable options.,CSS,327,19,"sapondanaisriwan, ItsProfessional",7
+Anonym-tsk,nfqws-keenetic,,CSS,1174,85,"Anonym-tsk, github-actions, chymaboy, pegakmop, bear-gha",4
+isocpp,CppCoreGuidelines,"The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",CSS,43568,5477,"hsutter, gdr-at-ms, tkruse, cubbimew, BjarneStroustrup",7
+athul,archie,A minimal Hugo Theme,CSS,1149,334,"athul, hcartiaux, RobbiNespu, pgeorgi, DavidWittman",1
+animate-css,animate.css,🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.,CSS,81612,16226,"daneden, dependabot, eltonmesquita, suissa, warengonzaga",9
+necolas,normalize.css,A modern alternative to CSS resets,CSS,53061,10592,"necolas, jonathantneal, hudochenkov, MoOx, alrra",10
+karpathy,llm.c,"LLM training in simple, raw C/CUDA",Cuda,26419,3038,"karpathy, ngc92, gordicaleksa, ademeure, rosslwheeler",14
+flashinfer-ai,flashinfer,FlashInfer: Kernel Library for LLM Serving,Cuda,2715,286,"yzh119, abcdabcd987, zhyncs, MasterJH5574, nandor",10
+computerhistory,AlexNet-Source-Code,This package contains the original 2012 AlexNet code.,Cuda,2556,332,"laurentes, chm-tluong",4
+NVIDIA,CUDALibrarySamples,CUDA Library Samples,Cuda,1891,376,"mnicely, fbusato, almogsegal, springer13, rsdubtso",4
+NVlabs,instant-ngp,Instant neural graphics primitives: lightning fast NeRF and more,Cuda,16521,1970,"Tom94, FlorisE, jc211, yenchenlin, JamesPerlman",6
+thu-ml,SageAttention,"Quantized Attention achieves speedup of 2-3x and 3-5x compared to FlashAttention and xformers, without lossing end-to-end metrics across language, image, and video models.",Cuda,1381,97,"jt-zhang, jason-huang03, DefTruth, Panchovix",12
+HazyResearch,ThunderKittens,Tile primitives for speedy kernels,Cuda,2283,136,"benjaminfspector, Aaryan0404, simran-arora, StuartSul, dylanllim",4
+NVIDIA,nccl-tests,NCCL Tests,Cuda,1076,273,"AddyLaddy, sjeaugey, jbachan, lukeyeager, jithinjosepkl",0
+Dao-AILab,causal-conv1d,"Causal depthwise conv1d in CUDA, with a PyTorch interface",Cuda,438,86,"tridao, ajassani, johnnynunez, amoskvic, tlrmchlsmth",0
+NVIDIA,cub,[ARCHIVED] Cooperative primitives for CUDA C++. See https://github.com/NVIDIA/cccl,Cuda,1745,452,"gevtushenko, alliepiper, dumerrill, brycelelbach, elstehle",0
+mit-han-lab,nunchaku,[ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models,Cuda,1502,85,"lmxyy, sxtyzhangzk, ita9naiwa, PaoFanAIGC, synxlin",14
+rapidsai,raft,RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing high performance applications.,Cuda,870,205,"cjnolet, GPUtester, aschaffer, divyegala, achirkin",0
+rapidsai,cuvs,cuVS - a library for vector search and clustering on the GPU,Cuda,382,96,"GPUtester, benfred, cjnolet, bdice, achirkin",0
+rapidsai,cugraph,cuGraph - RAPIDS Graph Analytics Library,Cuda,1954,325,"BradReesWork, afender, seunghwak, ChuckHastings, Iroy30",0
+openai,mujoco-py,"MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.",Cython,2976,822,"wojzaremba, jonasschneider, machinaut, welinder, MillionIntegrals",0
+TA-Lib,ta-lib-python,Python wrapper for TA-Lib (http://ta-lib.org/).,Cython,10551,1861,"mrjbq7, briancappello, xmatthias, GaretJax, mckelvin",7
+MagicStack,uvloop,Ultra fast asyncio event loop.,Cython,10831,565,"1st1, fantix, elprans, jlaine, graingert",2
+Unidata,netcdf4-python,netcdf4-python: python/numpy interface to the netCDF C library,Cython,777,265,"jswhit, huard, RandallPittmanOrSt, ocefpaf, headtr1ck",0
+ldc-developers,ldc,The LLVM-based D Compiler.,D,1254,267,"kinke, ibuclaw, dnadlinger, redstar, JohanEngelen",1
+abraunegg,onedrive,OneDrive Client for Linux,D,10822,885,"abraunegg, norbusan, Lyncredible, sbadia, bmccafferty",8
+dlang,phobos,The standard library of the D programming language,D,1212,737,"andralex, dlang-bot, jmdavis, wilzbach, WalterBright",1
+gnunn1,tilix,A tiling terminal emulator for Linux using GTK+ 3,D,5505,303,"gnunn1, weblate, phw, f2404, ximion",1
+dlang,dmd,dmd D Programming Language compiler,D,3110,648,"WalterBright, dlang-bot, yebblies, ibuclaw, MartinNowak",2
+niuhuan,jasmine,A comic browser，support Android / iOS / MacOS / Windows / Linux.,Dart,3966,317,"niuhuan, karedem, honjow",11
+krille-chan,fluffychat,The cutest instant messenger in the [matrix],Dart,1488,292,"krille-chan, Sorunome, jelv, IhorHordiichuk, Linerly",0
+flutter,flutter,Flutter makes it easy and fast to build beautiful apps for mobile and beyond,Dart,169896,28401,"engine-flutter-autoroll, jonahwilliams, abarth, Hixie, jmagman",35
+pichillilorenzo,flutter_inappwebview,"A Flutter plugin that allows you to add an inline webview, to use a headless webview, and to open an in-app browser window.",Dart,3492,1806,"pichillilorenzo, allcontributors, p-mazhnik, michalsrutek, ryan-feline",2
+flutter,packages,A collection of useful packages maintained by the Flutter team,Dart,4683,3203,"engine-flutter-autoroll, stuartmorgan-g, dnfield, dependabot, bparrishMines",5
+academind,flutter-complete-guide-course-resources,Course resources (code snapshots & slides) for our complete Flutter & Dart course (https://acad.link/flutter).,Dart,2300,937,"maxschwarzmueller, unsivilaudio",7
+dart-lang,sdk,"The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.",Dart,10555,1652,"scheglov, johnniwinther, stereotype441, bwilkerson, rmacnak-google",3
+AppFlowy-IO,AppFlowy,"Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",Dart,62300,4192,"appflowy, LucasXu0, richardshiue, Xazin, vincentdchan",42
+getsentry,sentry-dart,Sentry SDK for Dart and Flutter,Dart,800,252,"marandaneto, buenaflor, github-actions, web-flow, denrase",0
+shorebirdtech,shorebird,Code Push for Flutter and other tools for Flutter businesses.,Dart,2599,163,"felangel, bryanoltman, eseidel, dependabot, erickzanardo",2
+hiddify,hiddify-app,"Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",Dart,20689,1844,"hiddify-com, 0xConsumer, lymanjre, HiddifyOfficial, amirsaam",22
+jiangtian616,JHenTai,A cross-platform manga app made for e-hentai & exhentai by Flutter,Dart,3604,99,"jiangtian616, qlife1146, pugaizai, Gzushgshsh, honjow",3
+daodao97,chatmcp,ChatMCP is an AI chat client implementing the Model Context Protocol (MCP).,Dart,1365,100,"daodao97, hangingman, vkhobor, adhikasp, cevheri",12
+MaikuB,flutter_local_notifications,"A Flutter plugin for displaying local notifications on Android, iOS, macOS, Linux and Windows",Dart,2554,1463,"MaikuB, proninyaroslav, emersion, jeffscaturro-aka, Levi-Lesches",0
+nubank,nuvigator,"A powerful routing abstraction over Flutter Navigator, with nested Navigator and Deeplinks",Dart,284,35,"leoiacovini, lubritto, Alifyz, mateusvtt, Cisneiros",0
+imaNNeo,fl_chart,"FL Chart is a highly customizable Flutter chart library that supports Line Chart, Bar Chart, Pie Chart, Scatter Chart, and Radar Chart.",Dart,7100,1853,"imaNNeo, lsaudon, payam-zahedi, prajwal27wiijii, dhiyaaulauliyaa",3
+fluttercommunity,flutter_workmanager,A Flutter plugin which allows you to execute code in the background on Android and iOS.,Dart,926,313,"timrijckaert, ened, jeremie-movify, petermnt, otopba",0
+flame-engine,flame,A Flutter based game engine.,Dart,9893,964,"spydon, luanpotter, erickzanardo, st-pasha",10
+jameskokoska,Cashew,💸 An app created to help users manage a budget and purchases,Dart,2736,371,"jameskokoska, YuYing-Liang",5
+xiaoyaocz,dart_simple_live,简简单单的看直播,Dart,9484,459,"xiaoyaocz, bgylde, AprDeci, SlotSun, abcghy",28
+fluttercommunity,plus_plugins,Flutter Community Plus Plugins,Dart,1728,1088,"dependabot, vbuberen, miquelbeltran, jpnurmi, mhadaily",1
+zetaloop,keyviz,免费开源按键可视化工具 Keyviz 的汉化版。Keyviz Chinese l10n fork.,Dart,548,20,"mulaRahul, dependabot, zetaloop, sitiom, wisetarman",40
+Baseflow,flutter-geolocator,Android and iOS Geolocation plugin for Flutter,Dart,1277,690,"mvanbeusekom, martijn00, florissmit1, dependabot, TimHoogstrate",0
+sass,dart-sass,"The reference implementation of Sass, written in Dart.",Dart,4063,361,"nex3, jathak, ntkme, stof, Goodwine",0
+cmss13-devs,cmss13,Contains the code for CM-SS13,DM,124,702,"github-merge-queue, cm13-github, actions-user, cmss13-ci, stanalbatross",0
+tgstation,tgstation,The /tg/station branch of SS13.,DM,1767,4932,"tgstation-server, comfyorange, Cyberboss, Cheridan, ChangelingRain",0
+shiptest-ss13,Shiptest,The Shiptest Codebase,DM,111,559,"tgstation-server, actions-user, Cheridan, Cyberboss, ChangelingRain",0
+jaywcjlove,reference,为开发人员分享快速参考备忘清单(速查表),Dockerfile,13564,2038,"jaywcjlove, github-actions, fwqaaq, renovate, zhangymPerson",16
+dunglas,symfony-docker,A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`.,Dockerfile,2784,833,"dunglas, maxhelias, fabpot, bkosun, thePanz",3
+piyushsachdeva,CKA-2024,"This repository contains the notes and code snippets of the CKA 2024 YouTube Playlist. The content is based on the latest 2024 curriculum and includes hands-on demos, assignments, and exam-based scenarios. I will be covering everything from the basics to the advanced level.",Dockerfile,576,1027,"piyushsachdeva, iam-veeramalla, guntrer, codewithmitesh",2
+odoo,docker,,Dockerfile,1039,1612,"d-fence, cecton, aab-odoo, sle-odoo, md5",0
+astral-sh,uv-docker-example,An example of using uv in Docker images,Dockerfile,315,36,"zanieb, tomsquest, mgaitan, ciarancourtney, ethanholz",3
+dotnet,dotnet-docker,Official container images for .NET,Dockerfile,4651,1954,"mthalman, lbussell, MichaelSimons, dotnet-docker-bot, jander-msft",1
+kubernetes-sigs,contributor-playground,,Dockerfile,235,1338,"k8s-ci-robot, atoato88, shu-mutou, nikhita, k-toyoda-pi",0
+autowarefoundation,autoware,Autoware - the world's leading open-source software project for autonomous driving,Dockerfile,9849,3214,"kenji-miyake, youtalk, awf-autoware-bot, pre-commit-ci",2
+jauderho,dockerfiles,Dockerfiles of things,Dockerfile,136,22,"jauderho, dependabot, jauderho-bot, snyk-bot, pento",0
+microsoft,mssql-docker,Official Microsoft repository for SQL Server in Docker resources,Dockerfile,1805,766,"jamesongithub, twright-msft, amvin87-zz, LuisBosquez, perrysk-msft",0
+nodejs,docker-node,Official Docker Image for Node.js 🐳 🐢 🚀,Dockerfile,8401,1975,"PeterDaveHello, chorrell, nschonni, SimenB, LaurentGoderre",0
+bitrixdock,bitrixdock,BitrixDock - это готовое Docker окружение для Bitrix CMS 🎯,Dockerfile,586,242,"vmpartner, Elnadrion, paskal, mikhailsidorov, rasperepodvipodvert",0
+Fechin,reference,⭕ Share quick reference cheat sheet for developers.,EJS,7986,1001,"Fechin, Randy8080, FireIsGood, hatemhosny, Sumangal44",19
+docker,multi-container-app,,EJS,132,443,"nunocoracao, cmrigney, lebe24, glours, barisayyildiz",0
+roninoss,create-expo-stack,"CLI tool to initialize a React Native application with Expo. Provides options to include Typescript, file-based routing via Expo Router, configuration based routing via pure React Navigation, styling via Nativewind, Restyle, Unistyles, StyleSheets, or Tamagui, and/or backend as a service such as Firebase and Supabase.",EJS,2032,98,"danstepanov, github-actions, dannyhw, hqasmei, sammoore",5
+github,haikus-for-codespaces,,EJS,2099,3695,"craiglpeters, dependabot, jungaretti, adnamalin, joshaber",3
+Ovi,DummyJSON,DummyJSON.com provides different types of REST Endpoints filled with JSON data which you can use in developing the frontend with your favorite framework and library without worrying about writing a backend.,EJS,2187,236,"Ovi, djscruggs, Erik-J-D, rifaldhiaw, hmdshfq",1
+phoenixframework,phoenix,Peace of mind from prototype to production,Elixir,22001,2958,"chrismccord, josevalim, lancehalvorsen, Gazler, dependabot",3
+brainlid,langchain,Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs.,Elixir,851,109,"brainlid, elliotb, raulchedrese, stevehodgkiss, medoror",0
+blockscout,blockscout,Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.,Elixir,3935,2665,"vbaranov, ayrat555, dependabot, KronicDeth, nikitosing",1
+plausible,analytics,"Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.",Elixir,22170,1189,"ukutaht, aerosol, zoldar, github-merge-queue, RobertJoonas",9
+phoenixframework,phoenix_live_view,"Rich, real-time user experiences with server-rendered HTML",Elixir,6449,976,"chrismccord, josevalim, SteffenDE, mcrumm, snewcomer",2
+anoma,anoma,Reference implementation of Anoma,Elixir,28658,3830,"mariari, juped, agureev, karbyshev, m1dnight",11
+duffelhq,paginator,Cursor-based pagination for Elixir Ecto,Elixir,787,96,"sgerrand, dependabot, stevedomin, waltfy, telphan",0
+sequinstream,sequin,"Postgres change data capture to streams and queues like Kafka, SQS, HTTP endpoints, and more",Elixir,1175,47,"acco, RTLS, thisisgoldman, fazzone, yordis",11
+kieraneglin,pinchflat,Your next YouTube media manager,Elixir,2970,64,"kieraneglin, robertkleinschuster, onedr0p, philips, jbergler",5
+electric-sql,electric,Real-time sync for Postgres.,Elixir,8095,218,"alco, icehaunter, msfstef, kevin-dp, thruflo",4
+elixir-lang,elixir,"Elixir is a dynamic, functional language for building scalable and maintainable applications",Elixir,25136,3432,"josevalim, eksperimental, lexmag, whatyouhide, ericmj",6
+erlef,elixir-secure-coding,An interactive cybersecurity curriculum designed for enterprise use at software companies using Elixir,Elixir,652,147,"hvalkerie19, davydog187, polvalente, epinault, cocoa-xu",5
+supabase,realtime,"Broadcast, Presence, and Postgres Changes via WebSockets",Elixir,7034,346,"abc3, w3b6x9, chasers, filipecabaco, kiwicopple",0
+elixirs,faker,Faker is a pure Elixir library for generating fake data.,Elixir,1115,218,"vbrazo, anthonator, dependabot, dependabot-preview, renovate",1
+elixir-ecto,ecto,A toolkit for data mapping and language integrated query.,Elixir,6299,1437,"josevalim, ericmj, michalmuskala, greg-rychlewski, wojtekmach",1
+graphsense,graphsense-dashboard,A web dashboard for interactive cryptocurrency analysis.,Elm,111,21,"myrho, soad003, MatteoRomiti, dependabot, mdragaschnig",0
+syl20bnr,spacemacs,"A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!",Emacs Lisp,23948,4895,"syl20bnr, TheBB, smile13241324, JAremko, duianto",7
+emacs-mirror,emacs,Mirror of GNU Emacs,Emacs Lisp,4623,1311,"Eli-Zaretskii, rgmorris, monnier, eggert, larsmagne",3
+Wilfred,helpful,A better Emacs *help* buffer,Emacs Lisp,1171,66,"Wilfred, nickdrozd, narendraj9, DamienCassou, kisaragi-hiu",1
+copilot-emacs,copilot.el,An unofficial Copilot plugin for Emacs.,Emacs Lisp,2039,155,"zerolfx, bbatsov, github-actions, jcs090218, kiennq",1
+qjcg,awesome-typst,Awesome Typst Links,Emacs Lisp,2671,131,"qjcg, RolfBremer, OrangeX4, astrale-sharp, johannes-wolf",3
+joodland,bm,bm.el -- Visual Bookmarks for GNU Emacs,Emacs Lisp,275,31,"joodland, jixiuf, dsedivec, pataquets, sten0",0
+manateelazycat,lsp-bridge,A blazingly fast LSP client for Emacs,Emacs Lisp,1576,217,"manateelazycat, werhner, kongds, zerolfx, mumu-lhl",1
+emacs-lsp,lsp-mode,Emacs client/library for the Language Server Protocol,Emacs Lisp,4912,909,"yyoncho, vibhavp, ericdallo, traviscibot, jcs090218",0
+radian-software,straight.el,"🍀 Next-generation, purely functional package manager for the Emacs hacker.",Emacs Lisp,2822,155,"raxod502, progfolio, xuchunyang, flatwhatson, aspiers",1
+karthink,gptel,A simple LLM client for Emacs,Emacs Lisp,2355,228,"karthink, pabl0, psionic-k, benthamite, joaotavora",6
+joaotavora,eglot,A client for Language Server Protocol servers,Emacs Lisp,2362,202,"joaotavora, skangas, mkcms, nemethf, leungbk",0
+doomemacs,doomemacs,An Emacs framework for the stubborn martian hacker,Emacs Lisp,20280,3104,"hlissner, iyefrat, tecosaur, patrl, elken",2
+haskell,haskell-mode,Emacs mode for Haskell,Emacs Lisp,1348,347,"gracjan, chrisdone, purcell, hvr, geraldus",1
+ledger,ledger-mode,Emacs Lisp files for interacting with the C++Ledger accounting system,Emacs Lisp,411,76,"enderw88, purcell, thdox, jwiegley, bcc32",0
+catkin,catkin_simple,"catkin, simpler",EmberScript,186,151,"wjwwood, dirk-thomas, furgalep, flaviofontana, uschwes",0
+erlang,otp,Erlang/OTP,Erlang,11659,3001,"bjorng, garazdawi, bmk, IngelaAndin, sverker",5
+erlang-lager,lager,A logging framework for Erlang/OTP,Erlang,1124,454,"Vagabond, macintux, lukebakken, borshop, paulo-ferraz-oliveira",0
+emqx,emqx,"The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles",Erlang,14692,2294,"zmstone, thalesmg, HJianBo, zhongwencool, keynslug",4
+ninenines,ranch,Socket acceptor pool for TCP protocols.,Erlang,1205,334,"essen, juhlig, Maria-12648430, fishcakez, keynslug",0
+ninenines,cowlib,Support library for manipulating Web protocols.,Erlang,284,176,"essen, manifest, zuiderkwast, ppolv, tony612",0
+ninenines,gun,"HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.",Erlang,911,233,"essen, zuiderkwast, unix1, manifest, bjosv",1
+uwiger,gproc,Extended process registry for Erlang,Erlang,1077,234,"uwiger, norton, tolbrino, lemenkov, sg2342",0
+proper-testing,proper,PropEr: a QuickCheck-inspired property-based testing tool for Erlang,Erlang,887,169,"kostis, manopapad, eiriniar, xspirus, TheGeorge",0
+ferd,recon,Collection of functions and scripts to debug Erlang in production.,Erlang,1379,281,"ferd, bartekgorny, garazdawi, paulo-ferraz-oliveira, iilyak",0
+erlang,rebar3,Erlang build tool that makes it easy to compile and test Erlang applications and releases.,Erlang,1724,521,"ferd, tsloughter, dizzyd, paulo-ferraz-oliveira, jaredmorrow",0
+potatosalad,erlang-jose,JSON Object Signing and Encryption (JOSE) for Erlang and Elixir,Erlang,321,104,"potatosalad, ericmj, michaelklishin, maennchen, whatyouhide",0
+dotnet,fsharp,"The F# compiler, F# core library, F# language service, and F# tooling integration for Visual Studio",F#,4026,813,"KevinRansom, dsyme, vzarytovskii, brettfo, dotnet-bot",1
+Olical,conjure,"Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile, Python and more!)",Fennel,1908,118,"Olical, russtoku, glyh, taw10, TerseTears",0
+ggandor,leap.nvim,Neovim's answer to the mouse 🦘,Fennel,4661,47,"ggandor, aaronlifton, kuntau, krmbzds, mivort",2
+stephanrauh,ngx-extended-pdf-viewer,"A full-blown PDF viewer for Angular 16, 17, and beyond",Fluent,522,196,"stephanrauh, TheNordicOne, dependabot-preview, dependabot, stephanrauh0000",0
+janeczku,calibre-web,"📚 Web app for browsing, reading and downloading eBooks stored in a Calibre database",Fluent,14415,1522,"OzzieIsaacs, cbartondock, cervinko, idalin, jkrehm",9
+mozilla,blurts-server,Mozilla Monitor arms you with tools to keep your personal information safe. Find out what hackers already know about you and learn how to stay a step ahead of them.,Fluent,792,237,"flozia, mansaj, dependabot, groovecoder, lesleyjanenorton",2
+zen-browser,l10n-packs,"💪 Localisation packs for @zen-browser so everyone can enjoy it, no matter where they are from!",Fluent,43,45,"mauro-balades, kristijanribaric, nocanoa, DavidSint, JosueGalRe",0
+OpenFAST,openfast,Main repository for the NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.,Fortran,758,475,"bjonkman, andrew-platt, rafmudaf, ebranlard, deslaughter",1
+earth-system-radiation,rte-rrtmgp,RTE+RRTMGP is a set of codes for computing radiative fluxes in planetary atmospheres.,Fortran,79,72,"RobertPincus, brhillman, skosukhin, mrnorman, dependabot",0
+firemodels,fds,Fire Dynamics Simulator,Fortran,725,643,"gforney, mcgratta, rmcdermo, drjfloyd, marcosvanella",1
+E3SM-Project,E3SM,"Energy Exascale Earth System Model source code. NOTE: use ""maint"" branches for your work. Head of master is not validated.",Fortran,372,402,"jgfouca, singhbalwinder, bartgol, jonbob, xylar",0
+NGEET,fates,repository for the Functionally Assembled Terrestrial Ecosystem Simulator (FATES),Fortran,110,94,"rgknox, glemieux, ckoven, rosiealice, xuchongang",0
+MCSclimate,MCT,Model Coupling Tookit,Fortran,45,19,"rljacob, quantheory, jedwards4b, steder, Katetc",0
+wrf-model,WRF,The official repository for the Weather Research and Forecasting (WRF) model,Fortran,1360,746,"davegill, weiwangncar, dudhia, mkavulich, jamiebresch",1
+esmf-org,esmf,"The Earth System Modeling Framework (ESMF) is a suite of software tools for developing high-performance, multi-component Earth science modeling applications.",Fortran,181,81,"theurich, nancycollins, rokuingh, silveriovasquez10880, oehmke",0
+CFMIP,COSPv2.0,COSP - The CFMIP (Cloud Feedbacks Model Intercomparison Project) Observation Simulator Package,Fortran,47,46,"alejandrobodas, dustinswales, RobertPincus, rodrigoguzman-lmd, dependabot",0
+GEOS-ESM,MAPL,"MAPL is a foundation layer of the GEOS architecture, whose original purpose is to supplement the Earth System Modeling Framework (ESMF)",Fortran,28,19,"mathomp4, bena-nasa, tclune, weiyuan-jiang, darianboggs",0
+NOAA-GFDL,FMS,GFDL's Flexible Modeling System,Fortran,107,143,"colingladueNOAA, underwoo, uramirez8707, rem1776, thomas-robinson",0
+grimme-lab,xtb,Semiempirical Extended Tight-Binding Program Package,Fortran,646,159,"awvwgk, Albkat, foxtran, MtoLStoN, marcelmbn",0
+cp2k,cp2k,Quantum chemistry and solid state physics software package,Fortran,930,409,"vondele, oschuett, tlaino, mkrack, juerghutter",1
+NOAA-GFDL,GFDL_atmos_cubed_sphere,The GFDL atmos_cubed_sphere dynamical core code,Fortran,62,127,"bensonr, laurenchilutti, underwoo, lharris4, linjiongzhou",0
+jyjblrd,Core-R-Theta-4-Axis-Printer,4 Axis 3D Printer,G-code,615,71,"jyjblrd, Blargedy",15
+tanaes,whopping_Voron_mods,,G-code,636,107,"tanaes, garyd9, crashmaxx, clee, edddeduck",2
+pablogila,TileMapDual,"An automatic, real-time dual-grid tileset system for Godot",GDScript,506,15,"raffimolero, pablogila, mikael-ros, jeffbdavenport, bendy1234",4
+ramokz,phantom-camera,👻🎥 Control the movement and dynamically tween 2D & 3D cameras. Built for Godot 4. Inspired by Cinemachine.,GDScript,2573,96,"ramokz, ZenithStar, audeck, P5ina, GrogsyShovel",3
+Phazorknight,Cogito,Immersive Sim Template Project for GODOT 4,GDScript,1269,134,"Phazorknight, niefia, ac-arcana, FailSpy, aronand",0
+func-godot,func_godot_plugin,Quake .map support for Godot 4,GDScript,450,31,"RhapsodyInGeek, the-argus, sinewavey, Pesquisador-Stefano, greenfox1505",0
+godotengine,godot-demo-projects,Demonstration and Template Projects,GDScript,6720,1795,"aaronfranke, Calinou, akien-mga, reduz, TwistedTwigleg",6
+MewPurPur,GodSVG,"A vector graphics application for structured SVG editing, available on all major desktop platforms and on web. Currently in late alpha.",GDScript,1530,72,"MewPurPur, Kiisu-Master, Swarkin, Qainguin, syntaxerror247",3
+mbrlabs,Lorien,"Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.",GDScript,5860,260,"mbrlabs, MrApplejuice, Gurchain, albanobattistella, hansemro",2
+dialogic-godot,dialogic,"💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!",GDScript,4442,263,"coppolaemilio, Jowan-Spooner, ii4y-studios, zaknafean, CakeVR",2
+gdquest-demos,godot-shaders,"A large library of free and open-source shaders for the Godot game engine. Here, you'll get 2D and 3D shaders with playable demos.",GDScript,3426,205,"NathanLovato, Razoric480, QbieShay, tetrapod00, bramreth",1
+gleam-wisp,wisp,🧚 A practical web framework for Gleam,Gleam,1077,48,"lpil, ross-byrne, renatillas, inoas, giacomocavalieri",0
+SaschaWillems,Vulkan,C++ examples for the Vulkan graphics API,GLSL,10866,2086,"SaschaWillems, SRSaunders, Gadgeteering, ben-clayton, robotchaoX",4
+KhronosGroup,SPIRV-Cross,SPIRV-Cross is a practical tool and library for performing reflection on SPIR-V and disassembling SPIR-V back to high level languages.,GLSL,2193,586,"HansKristian-Work, billhollings, cdavis5e, RobDangerous, rdb",0
+cizia64,CrossMix-OS,Enhanced OS for the TrimUI Smart Pro,GLSL,645,60,"cizia64, cobaltgit, Nevrdid, welblade, tyusha0",1
+pocketbase,pocketbase,Open Source realtime backend in 1 file,Go,45937,2257,"ganigeorgiev, ValleyZw, yuxiang-gao, ghostdevv, pnmcosta",92
+go-task,task,A task runner / simpler Make alternative written in Go,Go,12616,671,"andreynering, pd93, task-bot, jaedle, dependabot",28
+grpc,grpc-go,The Go language implementation of gRPC. HTTP/2 based RPC,Go,21765,4491,"iamqizhao, menghanl, dfawley, easwars, zasweq",7
+cloudwego,eino,The ultimate LLM/AI application development framework in Golang.,Go,3193,226,"meguminnnnnnnnn, shentongmartin, hi-pender, luohq-bytedance, N3kox",87
+NVIDIA,k8s-device-plugin,NVIDIA device plugin for Kubernetes,Go,3158,687,"elezar, klueska, ArangoGutierrez, dependabot, cdesiniotis",1
+prometheus,prometheus,The Prometheus monitoring system and time series database.,Go,58258,9524,"fabxc, juliusv, beorn7, bboreham, dependabot",21
+spegel-org,spegel,Stateless cluster local OCI registry mirror.,Go,2340,90,"phillebaba, dependabot, onedr0p, bittrance, noyoshi",125
+spf13,cobra,A Commander for modern Go CLI interactions,Go,40202,2924,"eparis, n10v, spf13, umarcor, marckhouzam",14
+projectdiscovery,katana,A next-generation crawling and spidering framework.,Go,13418,716,"dependabot, Mzack9999, ehsandeep, dogancanbakir, Ice3man543",13
+open-telemetry,opentelemetry-collector,OpenTelemetry Collector,Go,5085,1600,"bogdandrutu, dmitryax, renovate, codeboten, mx-psi",9
+zitadel,zitadel,"ZITADEL - Identity infrastructure, simplified for you.",Go,10450,692,"livio-a, peintnermax, hifabienne, adlerhurst, fforootd",69
+stretchr,testify,A toolkit with common assertions and mocks that plays nicely with the standard library,Go,24462,1637,"ernesto-jimenez, brackendawson, dolmen, tylerstillwater, boyan-soubachov",8
+gohugoio,hugo,The world’s fastest framework for building websites.,Go,79804,7757,"bep, spf13, dependabot, anthonyfok, jmooring",69
+gruntwork-io,terragrunt,Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.,Go,8585,1037,"brikis98, yorinasub17, denis256, yhakbar, levkohimins",7
+open-policy-agent,opa,"Open Policy Agent (OPA) is an open source, general-purpose policy engine.",Go,10155,1402,"tsandall, srenatus, patrick-east, dependabot, anderseknert",3
+rancher,rancher,Complete container management platform,Go,24071,3031,"ibuildthecloud, dramich, kinarashah, jakefhyde, rmweir",8
+hashicorp,vault,"A tool for secrets management, encryption as a service, and privileged access management",Go,32266,4343,"jefferai, vishalnayak, armon, ncabatoff, mitchellh",12
+nats-io,nats-server,"High-Performance server for NATS.io, the cloud and edge native messaging system.",Go,16917,1508,"derekcollison, kozlovic, neilalexander, matthiashanel, wallyqs",12
+go-co-op,gocron,Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron,Go,6142,328,"JohnRoesler, dependabot, rbroggi, Higan, apocelipes",9
+hashicorp,terraform,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",Go,45041,9820,"jbardin, mitchellh, apparentlymart, stack72, catsby",8
+rakyll,hey,"HTTP load generator, ApacheBench (ab) replacement",Go,18779,1228,"rakyll, mdakin, jronak, pasc, keramidasceid",3
+gradle,gradle,"Adaptable, fast automation for all",Groovy,17536,4906,"adammurdoch, eskatos, wolfs, bamboo, big-guy",7
+nextflow-io,nextflow,A DSL for data-driven computational pipelines,Groovy,2910,680,"pditommaso, bentsherman, ewels, christopher-hakkaart, jorgeaguileraseqera",0
+rundeck,rundeck,"Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts",Groovy,5754,938,"gschueler, ProTip, sjrd218, ltamaster, chrismcg14",1
+AdobeDocs,experience-manager-65.en,This is the repository for Adobe Experience Manager 6.5 documentation. Your contributions to the documentation are welcome.,Groovy,76,116,"rickbrough, aheim0, anujkapo, singhkh, Ruchita454401",0
+google,protobuf-gradle-plugin,Protobuf Plugin for Gradle,Groovy,1793,278,"zhangkun83, ejona86, aantono, zpencer, voidzcy",0
+JetBrains,gradle-idea-ext-plugin,Plugin to store IJ settings in gradle script,Groovy,240,41,"nskvortsov, eskatos, breskeby, entrypointkr, wolfs",0
+elastic,integrations,,Handlebars,274,451,"efd6, marc-gr, andrewkroh, kcreddy, dependabot",0
+CrunchyData,postgres-operator-examples,"Examples for deploying applications with PGO, the Postgres Operator from Crunchy Data",Handlebars,202,5520,"jkatz, ValClarkson, benjaminjb, andrewlecuyer, jmckulk",1
+ibeatai,beat-ai,"<Beat AI> 又名 <零生万物> , 是一本专属于软件开发工程师的 AI 入门圣经，手把手带你上手写 AI。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !",Handlebars,3828,215,"sunface, mrxiaozhuox, sfilata, yansq, BobH-Official",2
+rust-unofficial,patterns,"A catalogue of Rust design patterns, anti-patterns and idioms",Handlebars,8365,384,"simonsan, marcoieni, nrc, lambda-fairy, llogiq",0
+koalaman,shellcheck,"ShellCheck, a static analysis tool for shell scripts",Haskell,37268,1809,"koalaman, josephcsible, ngzhian, contivero, jabberabbe",9
+PostgREST,postgrest,REST API for any Postgres database,Haskell,25171,1080,"steve-chavez, begriffs, wolfgangwalther, laurenceisla, robx",7
+kmonad,kmonad,An advanced keyboard manager,Haskell,4419,329,"david-janssen, slotThe, jokesper, thoelze1, lierdakil",4
+NixOS,nixfmt,The official (but not yet stable) formatter for Nix code,Haskell,1106,49,"piegamesde, infinisil, Lucus16, yorickvP, kirelagin",2
+IntersectMBO,cardano-ledger,The ledger implementation and specifications of the Cardano blockchain.,Haskell,268,157,"lehins, nc6, teodanciu, mgudemann, JaredCorduan",0
+jgm,pandoc,Universal markup converter,Haskell,37009,3492,"jgm, tarleb, jkr, mpickering, mb21",14
+hadolint,hadolint,"Dockerfile linter, validate inline bash, written in Haskell",Haskell,10867,442,"lorenzo, lukasmartinelli, m-ildefons, dependabot, zemanlx",1
+IntersectMBO,cardano-node,The core component that is used to participate in a Cardano decentralised blockchain.,Haskell,3120,731,"iohk-bors, Jimbo4350, newhoggy, dcoutts, deepfire",0
+fossas,fossa-cli,"Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",Haskell,1368,179,"cnr, xizhao, meghfossa, microsoftly, jssblck",0
+haskell,haskell-language-server,Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.,Haskell,2791,389,"pepeiborra, jneira, mergify, michaelpj, wz1000",0
+HaxeFoundation,haxe,Haxe - The Cross-Platform Toolkit,Haxe,6421,675,"Simn, ncannasse, nadako, RealyUniqueName, waneck",5
+CodenameCrew,CodenameEngine,awesome fnf engine :D,Haxe,312,219,"YoshiCrafter29, lunarcleint, NeeEoo, NexIsDumb, Frakits",2
+FunkinCrew,Funkin,A rhythm game made with HaxeFlixel,Haxe,3111,2330,"ninjamuffin99, EliteMasterEric, PrincessMtH, Hundrec, FabsTheFabs",1
+terraform-aws-modules,terraform-aws-vpc,Terraform module to create AWS VPC resources 🇺🇦,HCL,3081,4527,"antonbabenko, semantic-release-bot, bryantbiggs, DrFaust92, betajobot",1
+aws-ia,terraform-aws-control_tower_account_factory,AWS Control Tower Account Factory,HCL,692,496,"troy-ameigh, tonynv, andrew-glenn, hanafya",1
+GoogleCloudPlatform,cloud-foundation-fabric,End-to-end modular samples and landing zones toolkit for Terraform on GCP.,HCL,1662,983,"ludoo, juliocc, lcaggio, wiktorn, juliodiez",1
+terraform-aws-modules,terraform-aws-eks,Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦,HCL,4640,4184,"semantic-release-bot, bryantbiggs, barryib, brandonjbjelland, max-rocket-internet",3
+terraform-aws-modules,terraform-aws-lambda,"Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",HCL,968,708,"antonbabenko, semantic-release-bot, ahlinc, bryantbiggs, pdecat",1
+terraform-google-modules,terraform-google-kubernetes-engine,Configures opinionated GKE clusters,HCL,1193,1214,"morgante, bharathkkb, aaron-lane, apeabody, Jberlinsky",0
+terraform-aws-modules,terraform-aws-ecs,Terraform module to create AWS ECS resources 🇺🇦,HCL,605,582,"antonbabenko, semantic-release-bot, bryantbiggs, arminc, betajobot",0
+GoogleCloudPlatform,cluster-toolkit,Cluster Toolkit is an open-source software offered by Google Cloud which makes it easy for customers to deploy AI/ML and HPC environments on Google Cloud.,HCL,245,181,"tpdownes, nick-stroud, mr0re1, heyealex, cboneti",1
+antonputra,tutorials,DevOps Tutorials,HCL,3902,2698,"antonputra, melroy89, cookieo9, SvetlinZarev, techUdayMungalpara",2
+cloudposse,terraform-aws-ecs-container-definition,Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource,HCL,345,243,"nitrocode, actions-bot, cloudpossebot, osterman, actions-user",0
+terraform-google-modules,terraform-google-iam,Manages multiple IAM roles for resources on Google Cloud,HCL,205,177,"cloud-foundation-bot, cray0000, aaron-lane, morgante, release-please",0
+terraform-google-modules,terraform-google-lb-http,Creates a global HTTP load balancer for Compute Engine by using forwarding rules,HCL,330,379,"cloud-foundation-bot, danisla, Dev25, release-please, renovate",0
+Blinue,Magpie,An all-purpose window upscaler for Windows 10/11.,HLSL,11190,525,"Blinue, weblate, allcontributors, animeojisan, SerdarSaglam",15
+JamesCJ60,Universal-x86-Tuning-Utility,Unlock the full potential of your Intel/AMD based device.,HLSL,1949,51,"JamesCJ60, 1MrEnot, DuCun, loyvsc, eltociear",2
+PKUFlyingPig,cs-self-learning,计算机自学指南,HTML,62593,7274,"PKUFlyingPig, smxm, BarbarossaWang, liudeyuan2021, taylover2016",182
+boostorg,boost,Super-project for modularized Boost,HTML,7582,1817,"boost-commitbot, vprus, dabrahams, jzmaddock, hkaiser",1
+ossu,computer-science,🎓 Path to a free self-taught education in Computer Science!,HTML,178456,22606,"ericdouglas, waciumawanjohi, joshmhanson, mkghosh, spamegg1",162
+microsoft,Security-101,"8 Lessons, Kick-start Your Cybersecurity Learning.",HTML,5063,639,"banreyms, AnthonyByansi, sarah-yo, microsoftopensource, fschuermeyer",10
+Xilinx,embeddedsw,Xilinx Embedded Software (embeddedsw) Development,HTML,1020,1092,"mirelas, mubinsyed, rajanv-xilinx, tejus26, andrei-simion",0
+deanmalmgren,textract,extract text from any document. no muss. no fuss.,HTML,4092,624,"achembarpu, jpweytjens, ShawnMilo, christomitov, levivm",10
+OWASP,ASVS,Application Security Verification Standard,HTML,2970,709,"tghosth, jmanico, vanderaj, elarlang, danielcuthbert",2
+wesbos,JavaScript30,30 Day Vanilla JS Challenge,HTML,28329,39168,"wesbos, palashmon, ElaMoscicka, apopitich, akashrajum7",9
+web-platform-tests,wpt,"Test suites for Web platform specs — including WHATWG, W3C, and others",HTML,5313,3265,"jgraham, Ms2ger, wpt-pr-bot, foolip, zcorpan",3
+gustavoguanabara,html-css,Curso de HTML5 e CSS3,HTML,14772,3578,"gustavoguanabara, eteot, guanabara-eteot, gafanhotos",7
+jwasham,computer-science-flash-cards,Mini website for testing both general CS knowledge and enforce coding practice and common algorithm/data structure memorization.,HTML,8639,2059,"jwasham, duongban, dependabot, linbingqiang, shivansh",3
+SuperSimpleDev,html-css-course,Watch the course: https://youtu.be/G3e-cpL7ofc,HTML,1632,1186,"SuperSimpleDev, spencer-lochne",0
+Unstructured-IO,unstructured,"Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.",HTML,10946,909,"MthwRobinson, cragwolfe, ryannikolaidis, scanny, christinestraub",8
+themesberg,flowbite,Open-source UI component library and front-end development framework based on Tailwind CSS,HTML,8475,786,"zoltanszogyenyi, robert1508, Manal-el, CorwinDev, jmnda-dev",6
+tc39,proposal-pipeline-operator,A proposal for adding a useful pipe operator to JavaScript.,HTML,7709,110,"js-choi, gilbert, littledan, tabatkins, TheNavigateur",3
+DataDog,system-tests,Test framework for libraries and agents.,HTML,29,13,"cbeauchesne, robertomonteromiguel, wconti27, Kyle-Verhoog, christophe-papazian",0
+brave,brave-core,Core engine for the Brave browser for mobile and desktop. For issues https://github.com/brave/brave-browser/issues,HTML,2682,963,"mkarolin, brave-browser-releases, tmancey, simonhong, cdesouza-chromium",2
+docker-archive,toolbox,The Docker Toolbox,Inno Setup,3227,1228,"jmorganca, nathanleclaire, mchiang0610, shin-, FrenchBen",0
+ethereum,execution-apis,Collection of APIs provided by Ethereum execution layer clients,Io,1022,410,"lightclient, github-actions, mkalinin, djrtwo, fjl",1
+SeleniumHQ,selenium,A browser automation framework and ecosystem.,Java,32155,8421,"shs96c, barancev, jimevans, diemol, titusfortner",24
+OpenAPITools,openapi-generator,"OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)",Java,23517,6889,"wing328, fehguy, xhh, jimschubert, jmini",13
+jeecgboot,JeecgBoot,🔥一款基于AIGC和低代码引擎的AI低代码平台，旨在帮助企业快速实现低代码开发和构建、部署个性化的 AI 应用。 前后端分离 SpringBoot，SpringCloud，Ant Design&Vue3，Mybatis，Shiro！强大的代码生成器让前后端代码一键生成，无需写任何代码! 成套AI大模型功能: AI模型管理、AI应用、知识库、AI流程编排、AI对话助手等；,Java,42416,15281,"zhangdaiscott, EightMonth, wang1223440313, CowSmiles, Chenzhexian",37
+alibaba,spring-ai-alibaba,Agentic AI Framework for Java Developers,Java,2446,466,"chickenlj, yuluo-yx, answeropensource, brianxiadong, PolarishT",26
+openjdk,jdk,JDK main-line development https://openjdk.org/projects/jdk,Java,20872,5801,"jonathan-gibbons, shipilev, prrace, coleenp, jddarcy",9
+xpipe-io,xpipe,Access your entire server infrastructure from your local desktop,Java,10732,396,"crschnick, tolgaulas, muescha, chenx-dust, eltociear",41
+CodePhiliaX,Chat2DB,"🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",Java,22559,2435,"shanhexi, Chat2DB-Pro, JerryFan626, chat2db-jerry, robinji0",32
+netty,netty,Netty project - an event-driven asynchronous network application framework,Java,34057,16062,"trustin, normanmaurer, Scottmitch, netty-project-bot, chrisvest",16
+OpenLineage,OpenLineage,An Open Standard for lineage metadata collection,Java,1913,334,"mobuchowski, dependabot, merobi-hub, pawel-big-lebowski, wslulciuc",1
+AutoMQ,automq,AutoMQ is a stateless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.,Java,5610,380,"ijuma, mjsax, guozhangwang, superhx, SCNieh",42
+strimzi,strimzi-kafka-operator,Apache Kafka® running on Kubernetes,Java,5200,1357,"scholzj, ppatierno, PaulRMellor, tombentley, Frawless",4
+spring-projects,spring-boot,"Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",Java,76877,41110,"wilkinsona, snicoll, philwebb, mhalbritter, mbhave",17
+halo-dev,halo,强大易用的开源建站工具。,Java,35299,9866,"ruibaby, JohnNiang, guqing, LIlGG, dependabot-preview",17
+xuxueli,xxl-job,A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）,Java,28643,11145,"xuxueli, thinkingfioa, 1423302537, WEIZIBIN, denghuafeng",12
+Netflix,Hystrix,"Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.",Java,24304,4732,"mattrjacobs, benjchristensen, dmgcodevil, quidryan, mebigfatguy",4
+apache,hadoop,Apache Hadoop,Java,15055,9034,"github-actions, aajisaka, szetszwo, vinoduec, arp7",2
+questdb,questdb,"QuestDB is a high performance, open-source, time-series database",Java,15087,1229,"bluestreak01, ideoma, puzpuzpuz, jerrinot, bziobrowski",5
+alibaba,DataX,DataX是阿里云DataWorks数据集成的开源版本。,Java,16402,5521,"TrafalgarLuo, dingxiaobo, zyyang90, dingbo8128, FuYouJ",3
+langchain4j,langchain4j,Java version of LangChain,Java,7182,1329,"dliubarskyi, jdubois, crutcher, renovate, Martin7-1",22
+google,guava,Google core libraries for Java,Java,50691,10980,"cpovirk, copybara-service, cgdecker, kluever, lowasser",5
+apache,shardingsphere,"Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.",Java,20197,6801,"terrymanu, tristaZero, tuohai666, strongduanmu, cherrylzhao",3
+bazelbuild,bazel,"a fast, scalable, multi-language and extensible build system",Java,23967,4196,"katre, lberki, janakdr, cushon",3
+drawdb-io,drawdb,"Free, simple, and intuitive online database diagram editor and SQL generator.",JavaScript,27706,1953,"1ilit, dependabot, haecheonlee, FelixZY, picimako",256
+Worklenz,worklenz,All in one project management tool for efficient teams,JavaScript,1506,119,"chamikaJ, gdevenyi, MalakaSandakal, TheZoker, Mrs-Feathers",154
+typescript-cheatsheets,react,Cheatsheets for experienced React developers getting started with TypeScript,JavaScript,46182,4193,"swyxio, github-actions, eps1lon, filiptammergard, allcontributors",9
+leaningtech,webvm,Virtual Machine for the Web,JavaScript,12720,2269,"alexp-sssup, carlopi, yuri91, AtibQur, sere",29
+open-webui,open-webui,"User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",JavaScript,90923,11470,"tjbck, cheahjs, jannikstdl, michaelpoluektov, dependabot",197
+appium,appium,"Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol",JavaScript,19703,6162,"jlipps, renovate, bootstraponline, imurchie, boneskull",12
+abhiz123,todoist-mcp-server,MCP server for Todoist integration enabling natural language task management with Claude,JavaScript,161,28,"abhiz123, calclavia, silviusimeria, punkpeye",7
+sampotts,plyr,"A simple HTML5, YouTube and Vimeo player",JavaScript,28578,3068,"sampotts, friday, dependabot, gehaktmolen, calvintam236",7
+wekan,wekan,"The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://app.transifex.com/wekan/wekan only.",JavaScript,20047,2890,"xet7, mfilser, jrsupplee, andresmanelli, blaggacao",3
+f,awesome-chatgpt-prompts,This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.,JavaScript,123371,16518,"f, iuzn, fengkiej, JonathanDn, developer-acc",70
+academind,react-complete-guide-course-resources,"React - The Complete Guide Course Resources (Code, Attachments, Slides)",JavaScript,2983,2322,"maxschwarzmueller, unsivilaudio",5
+UseInterstellar,Interstellar,One of the most popular modern web proxies with blazing fast speeds and a variety of games.,JavaScript,1457,17832,"xbubbo, 3kh0, airtag8892, joetheshmoe, IncognitoTGT",3
+PranshulGG,WeatherMaster,A Weather app for android 🌦🌞☔,JavaScript,1137,36,"PranshulGG, friendly-user-t, IzzySoft, er2de2",10
+sudheerj,javascript-interview-questions,List of 1000 JavaScript Interview Questions,JavaScript,25481,7197,"sudheerj, Benappiahpoku, github-actions, subhoghoshX, ckpinguin",7
+marktext,marktext,"📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",JavaScript,49396,3623,"Jocs, fxha, notAlaanor, mdogadailo, MrHeer",18
+mdn,browser-compat-data,This repository contains compatibility data for Web technologies as displayed on MDN,JSON,5207,2121,"queengooborg, Elchi3, dependabot, foolip, ddbeck",4
+upptime,upptime,⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary,JSON,16054,943,"upptime-bot, pabio-escobar, AnandChowdhary, semantic-release-bot, github-actions",6
+argoproj,argocd-example-apps,Example Apps to Demonstrate Argo CD,Jsonnet,1746,8009,"jessesuen, alexec, alexmt, limnick, farcaller",0
+prometheus-operator,kube-prometheus,Use Prometheus to monitor Kubernetes and applications running on Kubernetes,Jsonnet,7105,1997,"brancz, paulfantom, metalmatze, prom-op-bot, lilic",2
+kubernetes-monitoring,kubernetes-mixin,A set of Grafana dashboards and Prometheus alerts for Kubernetes.,Jsonnet,2215,607,"brancz, metalmatze, povilasv, paulfantom, tomwilkie",0
+JuliaRegistries,General,The official registry of general Julia packages,Julia,626,487,"JuliaRegistrator, JuliaHubRegistrator, jlbuild, StefanKarpinski, julpro",0
+CliMA,ClimaLand.jl,Clima's Land Model,Julia,44,10,"kmdeck, juliasloan25, Sbozzolo, bors, AlexisRenchon",0
+JuliaSmoothOptimizers,JSOSuite.jl,One stop solutions for all things optimization,Julia,22,8,"tmigot, RenanOD, abelsiqueira, github-actions, JSOBot",0
+JuliaInterop,RCall.jl,Call R from Julia,Julia,326,60,"randy3k, simonbyrne, dmbates, palday, ViralBShah",0
+anthropics,courses,Anthropic's educational courses,Jupyter Notebook,10472,952,"Colt, alexalbertt, rainlee, elie, maggie-vo",383
+microsoft,generative-ai-for-beginners,"21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/",Jupyter Notebook,79099,41032,"koreyspace, john0isaac, yoshioterada, leestott, glaucia86",139
+alirezadir,Machine-Learning-Interviews,This repo is meant to serve as a guide for Machine Learning/AI technical interviews.,Jupyter Notebook,6121,1086,"alirezadir, mehdizade, erjanmx, Anirudh257, aroraayush",31
+anthropics,anthropic-cookbook,A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.,Jupyter Notebook,11875,1390,"alexalbertt, saflamini, maheshmurag, zack-anthropic, GarvanD",22
+SakanaAI,AI-Scientist,The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬,Jupyter Notebook,10818,1569,"conglu1997, luchris429, romgenie, t46, RobertTLange",21
+rlabbe,Kalman-and-Bayesian-Filters-in-Python,"Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.",Jupyter Notebook,17703,4313,"rlabbe, ernstklrb, Gluttton, slayoo, PebetoUofC",9
+google-research,google-research,Google Research,Jupyter Notebook,35393,8073,"joel-shor, rybakov, agutkin, vratnakar",10
+topoteretes,cognee,Memory for AI Agents in 5 lines of code,Jupyter Notebook,2011,180,"Vasilije1990, dexters1, borisarzentar, hajdul88, 0xideas",7
+vllm-project,aibrix,Cost-efficient and pluggable Infrastructure components for GenAI inference,Jupyter Notebook,3475,331,"Jeffwan, varungup90, brosoul, happyandslow, nwangfw",5
+aburkov,theLMbook,This is the official repository for The Hundred-Page Language Models Book by Andriy Burkov,Jupyter Notebook,1456,229,"aburkov, carlos-aguayo",6
+datawhalechina,fun-rec,推荐系统入门教程，在线阅读地址：https://datawhalechina.github.io/fun-rec/,Jupyter Notebook,5611,905,"ruyiluo, kenken-xr, swallown1, zhongqiangwu960812, wangych6",10
+aws-samples,amazon-bedrock-samples,This repository contains examples for customers to get started using the Amazon Bedrock Service. This contains examples for all available foundational models,Jupyter Notebook,987,438,"kyleblocksom, mttanke, rsgrewal-aws, rppth, isingh09",2
+google-gemini,gemma-cookbook,A collection of guides and examples for the Gemma open models from Google.,Jupyter Notebook,1377,237,"bebechien, windmaple, kinarr, NSTiwari, dev-nid",6
+NVIDIA,Cosmos,New repo collection for NVIDIA Cosmos: https://github.com/nvidia-cosmos,Jupyter Notebook,7929,510,"mingyuliutw, ielh1, chenhsuanlin",4
+vandijklab,cell2sentence,Cell2Sentence: Teaching Large Language Models the Language of Biology,Jupyter Notebook,117,15,"SyedA5688, aakashdp6548",9
+jackfrued,Python-100-Days,Python - 100天从新手到大师,Jupyter Notebook,164470,53531,"jackfrued, MathDance, geekya215, jankeromnes, royaso",74
+microsoft,ai-agents-for-beginners,10 Lessons to Get Started Building AI Agents,Jupyter Notebook,16627,4140,"koreyspace, leestott, ShivamGoyal03, jt-216, aprilspeight",234
+anthropics,prompt-eng-interactive-tutorial,Anthropic's Interactive Prompt Engineering Tutorial,Jupyter Notebook,2750,324,"CloudsOfChange, maggie-vo, jawhnycooke",18
+huggingface,diffusion-models-class,Materials for the Hugging Face Diffusion Models Course,Jupyter Notebook,3976,442,"johnowhitaker, lewtun, mishig25, tolgacangoz, dhakalnirajan",3
+pop-os,cosmic-epoch,Next generation Cosmic desktop environment,Just,3889,100,"Drakulix, jackpot51, jokeyrhyme, wash2, WatchMkr",3
+ethereum-optimism,specs,OP Stack Specifications,Just,123,137,"tynes, protolambda, 0xfuturistic, trianglesphere, clabby",0
+secureblue,secureblue,Hardened Fedora Atomic and Fedora CoreOS images,Just,498,47,"RoyalOughtness, spaceoden, Rubiginosa, RKNF404, TommyTran732",2
+ethereum-lists,chains,provides metadata for chains,Kotlin,9615,7185,"ligi, dependabot, pedrouid, FrederikBolding, 3eph1r0th",4
+JetBrains,kotlin,The Kotlin Programming Language.,Kotlin,50396,5895,"udalov, mglukhikh, demiurg906, goodwinnk, dzharkov",13
+android,compose-samples,Official Jetpack Compose samples.,Kotlin,21343,5038,"riggaroo, JoseAlcerreca, JolandaVerhoef, nickbutcher, arriolac",11
+getsentry,sentry-java,"A Sentry SDK for Java, Android and other JVM languages.",Kotlin,1209,452,"marandaneto, adinauer, getsentry-bot, maciejwalkowiak, romtsn",1
+facebook,facebook-android-sdk,Used to integrate Android apps with Facebook Platform.,Kotlin,6217,3668,"jingping2015, Mxiim, KylinChang, jawwad, clang13",0
+android,camera-samples,Multiple samples showing the best practices in camera APIs on Android.,Kotlin,5185,2387,"owahltinez, donovanfm, jsaund, ggfan, kokoro-team",1
+MM2-0,Kvaesitso,A search-focused Android launcher,Kotlin,2988,113,"MM2-0, mapi68, weblate, summoner001, bartlibert",4
+amir1376,ab-download-manager,A Download Manager that speeds up your downloads,Kotlin,7140,395,"amir1376, Amirroid, dagimg-dot, peanut996, ehsannarmani",35
+JetBrains,intellij-platform-gradle-plugin,Gradle plugin for building plugins for JetBrains IDEs,Kotlin,1474,277,"hsz, zolotov, dependabot, YannCebron, aSemy",1
+mpv-android,mpv-android,#mpv-android @ libera.chat,Kotlin,2392,306,"sfan5, jeeb, xyzz, tmm1, syphyr",1
+InsertKoinIO,koin,Koin - a pragmatic lightweight dependency injection framework for Kotlin & Kotlin Multiplatform,Kotlin,9378,742,"arnaudgiuliani, pedrofsn, marcellogalhardo, hoc081098, GrzegorzBobryk",1
+YiiGuxing,TranslationPlugin,Translation plugin for IntelliJ-based IDEs/Android Studio.,Kotlin,11584,812,"YiiGuxing, dependabot, niktrop, actions-user, naoyukik",3
+home-assistant,android,Home Assistant Companion for Android,Kotlin,2650,711,"dshokouhi, dependabot, jpelgrom, JBassett, TimoPtr",2
+zhanghai,MaterialFiles,Material Design file manager for Android,Kotlin,6764,467,"zhanghai, david082321",4
+Mygod,VPNHotspot,Share your VPN connection over hotspot or repeater! (root required),Kotlin,4176,397,"Mygod, bluehomewu, zacharee, Kaitul, ztc1997",7
+MatsuriDayo,NekoBoxForAndroid,NekoBox for Android / sing-box / universal proxy toolchain for Android,Kotlin,13852,1153,"arm64v8a, purofle, Misaka-blog, xchacha20-poly1305, turikhay",17
+leanprover,lean4,Lean 4 programming language and theorem prover,Lean,5351,565,"leodemoura, Kha, kim-em, gebner, tydeu",6
+leanprover-community,mathlib4,The math library of Lean 4,Lean,1885,404,"urkud, kim-em, YaelDillies, eric-wieser, Ruben-VandeVelde",1
+leanprover-community,batteries,"The ""batteries included"" extended library for the Lean programming language and theorem prover",Lean,293,118,"digama0, kim-em, fgdorais, joehendrix, eric-wieser",0
+leanprover-community,ProofWidgets4,Helper toolkit for creating your own Lean 4 UserWidgets,Lean,129,34,"Vtec234, kim-em, EdAyers, lecopivo, VladaSedlacek",0
+leanprover-community,aesop,White-box automation for Lean 4,Lean,260,31,"JLimperg, kim-em, astahfrom, Kha, kmill",0
+Remix-Design,RemixIcon,Open source neutral style icon system,Less,7302,516,"xiaochunjimmy, wendygaoyuan, 0xflotus, binary-koan, coreyward",5
+Tencent,weui-wxss,"A UI library by WeChat official design team, includes the most useful widgets/modules.",Less,15193,5252,"uxsi, BearJ, progrape, codeif, fuchao2012",1
+Shopify,dawn,"Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.",Liquid,2681,3756,"translation-platform, ludoboludo, sofiamatulis, kmeleta, tyleralsbury",0
+TrellisCommerce,shopify-tailwind-starter-base,Shopify Dawn theme with Tailwind CSS & Prettier integrations,Liquid,314,407,"translation-platform, ludoboludo, kmeleta, sofiamatulis, LucasLacerdaUX",0
+llvm,llvm-project,The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.,LLVM,32057,13297,"lattner, topperc, RKSimon, arsenm, espindola",14
+KhronosGroup,SPIRV-LLVM-Translator,A tool and a library for bi-directional translation between SPIR-V and LLVM IR,LLVM,539,233,"svenvh, AlexeySotkin, MrSidims, yxsamliu, AlexeySachkov",0
+arichornlover,YouTubeRebornPlus,LillieH1000’s YouTube Reborn but with even more features!,Logos,565,567,"arichornlover, qnblackcat, actions-user, dayanch96, SKEIDs",0
+dayanch96,YTLite,A flexible enhancer for YouTube on iOS,Logos,1260,3154,"dayanch96, xiangfeidexiaohuo, mumuisdog, Balackburn, Deci8BelioS",11
+Kong,kong,🦍 The Cloud-Native API Gateway and AI Gateway.,Lua,40665,4914,"thibaultcha, bungle, subnetmarco, hishamhm, chronolaw",28
+CopilotC-Nvim,CopilotChat.nvim,Chat with GitHub Copilot in Neovim,Lua,2650,121,"deathbeam, github-actions, jellydn, pre-commit-ci, gptlang",12
+nvim-telescope,telescope.nvim,"Find, Filter, Preview, Pick. All lua, all the time.",Lua,17339,875,"Conni2461, tjdevries, jamestrew, rockerBOO, fdschmidt93",8
+yetone,avante.nvim,Use your Neovim like using Cursor AI IDE!,Lua,12942,543,"yetone, aarnphm, yuchanns, brewinski, b0o",34
+LazyVim,LazyVim,Neovim config for the lazy,Lua,20219,1428,"folke, github-actions, dpetka2001, amaanq, rubiin",14
+stevearc,oil.nvim,Neovim file explorer: edit your filesystem like a buffer,Lua,5015,152,"stevearc, github-actions, NikolaM-Dev, mehalter, Foo-x",9
+nvim-neo-tree,neo-tree.nvim,Neovim plugin to manage the file system and other tree like structures.,Lua,4469,251,"cseickel, pynappo, pysan3, nhat-vo, MunifTanjim",7
+echasnovski,mini.nvim,Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort,Lua,7078,233,"echasnovski, wroyca, dundargoc, gpanders, annenpolka",12
+nvimdev,dashboard-nvim,vim dashboard,Lua,2574,193,"glepnir, github-actions, polirritmico, ssxwcz, AckslD",1
+folke,snacks.nvim,🍿 A collection of QoL plugins for Neovim,Lua,4728,220,"folke, github-actions, dpetka2001, chrisgrieser, minusfive",7
+ThePrimeagen,harpoon,,Lua,7932,430,"ThePrimeagen, rudotriton, brandoncc, asbjornhaland, pranavrao145",7
+neovim,nvim-lspconfig,Quickstart configs for Nvim LSP,Lua,11723,2177,"mjlbach, github-actions, h-michael, glepnir, justinmk",11
+EdenEast,nightfox.nvim,"🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.",Lua,3478,160,"EdenEast, github-actions, rewhile, mrtnvgr, Swoogan",6
+fredrikaverpil,neotest-golang,Reliable Neotest adapter for running Go tests in Neovim.,Lua,189,29,"fredrikaverpil, github-actions, dependabot, mrcjkb, stroiman",2
+Civitasv,cmake-tools.nvim,CMake integration in Neovim,Lua,444,79,"Civitasv, toolcreator, lceWolf, hfn92, rohit-kumar-j",3
+ntop,ntopng,Web-based Traffic and Security Network Traffic Monitoring,Lua,6647,685,"lucaderi, cardigliano, MatteoBiscosi, emanuele-f, gabryon99",3
+b0o,SchemaStore.nvim,🛍 JSON schemas for Neovim,Lua,829,18,"b0o, williamboman, Zachiah, davidosomething, Makaze",2
+3rd,image.nvim,🖼️ Bringing images to Neovim.,Lua,1469,65,"3rd, benlubas, UnaTried, b0o, jmbuhr",0
+ActualMasterOogway,Fluent-Renewed,"An edited version of Fluent, a Roblox UI Library. This fixes various Bugs that were in the original Version and also gets updated frequently with new features.",Luau,20,33,"ActualMasterOogway, Paficent, notpoiu, mstudio45, 0vma",1
+open-telemetry,opentelemetry-proto,OpenTelemetry protocol (OTLP) specification and Protobuf definitions,Makefile,657,281,"tigrannajaryan, bogdandrutu, estolfo, jmacd, arminru",0
+golang-standards,project-layout,Standard Go Project Layout,Makefile,52014,5304,"kcq, arialdomartini, rostis232, xis, n4x2",27
+dbt-labs,dbt-utils,Utility functions for dbt projects.,Makefile,1510,521,"drewbanin, joellabes, clrcrl, dbeatty10, jtcohen6",1
+0xType,0xProto,A programming font focused on source code legibility,Makefile,2017,19,"matype, duganchen, moyogo, dependabot",9
+zhimin-dev,iptv-checker,"IPTV checker tool for Docker && Desktop && CMD, check your playlist is available",Makefile,1501,145,"zmisgod, deepsourcebot",9
+eu-digital-identity-wallet,eudi-doc-architecture-and-reference-framework,The European Digital Identity Wallet,Makefile,504,71,"skounis, github-actions, paolo-de-rosa, joelposti, phin10",0
+openwrt,packages,Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md,Makefile,4174,3624,"neheb, hnyman, dangowrt, jefferyto, thess",1
+uber-go,guide,The Uber Go Style Guide.,Makefile,16426,1747,"abhinav, mway, TangoEnSkai, prashantv, xxjwxc",2
+open-telemetry,opentelemetry-specification,Specifications for OpenTelemetry,Makefile,3885,912,"arminru, tigrannajaryan, bogdandrutu, carlosalberto, reyang",1
+jobbole,awesome-python-cn,Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。,Makefile,29328,7972,"tangyouhua, huanglimin, chenjiandongx, hanxiaomax, knktc",8
+dbt-labs,dbt-codegen,Macros that generate dbt code,Makefile,554,119,"dbeatty10, clrcrl, joellabes, graciegoheen, davesgonechina",0
+upbound,build,Upbound build and CI scripts,Makefile,67,69,"bassam, turkenh, negz, hasheddan, muvaf",0
+open-telemetry,opentelemetry-proto-go,Generated code for OpenTelemetry protobuf data model,Makefile,34,37,"renovate, dependabot, MrAlias, MadVikingGod, pellared",0
+raspberrypi,noobs,NOOBS (New Out Of Box Software) - An easy Operating System install manager for the Raspberry Pi,Makefile,2214,435,"lurch, XECDesign, Rob-Bishop, maxnet, bovirus",0
+LibreELEC,LibreELEC.tv,Just enough OS for KODI,Makefile,2411,1146,"sraue, heitbaum, MilhouseVH, CvH, stefansaraev",2
+deepseek-ai,DeepSeek-LLM,DeepSeek LLM: Let there be answers,Makefile,6324,981,"DeepSeekPH, stack-heap-overflow, zdaxie, Freja71122, luofuli",5
+container-storage-interface,spec,Container Storage Interface (CSI) Specification.,Makefile,1392,373,"saad-ali, jieyu, xing-yang, akutz, gnufied",0
+cloudposse,build-harness,"Collection of Makefiles to facilitate building Golang projects, Dockerfiles, Helm charts, and more",Makefile,359,127,"osterman, Nuru, goruha, aknysh, cloudpossebot",0
+duckdb,extension-ci-tools,Repository containing reusable workflows / actions for building DuckDB extensions,Makefile,25,34,"samansmink, carlopi, rustyconover, mlafeldt, Maxxen",0
+Autodesk,maya-usd,A common USD (Universal Scene Description) plugin for Autodesk Maya,Mathematica,819,210,"seando-adsk, pierrebai-adsk, pixar-oss, JGamache-autodesk, mattyjams",0
+ThomasYeoLab,CBIG,,MATLAB,634,396,"ahpxue, jianzhongc, jingwei-li, mnhng, SPande1502",0
+fieldtrip,fieldtrip,"The MATLAB toolbox for MEG, EEG and iEEG analysis",MATLAB,895,739,"robertoostenveld, schoffelen, Spaak, nno, StolkArjen",0
+TadasBaltrusaitis,OpenFace,"OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.",MATLAB,7218,1875,"TadasBaltrusaitis, simonmssu, fxfactorial, dshahrokhian, chiragraman",2
+ProjectTSB,TheSkyBlessing,TheSkyBlessing のベース Datapack のリポジトリ,mcfunction,76,7,"ChenCMD, haiiro2gou, Lapis-LJA, quikku, Chuzume",1
+twbs,bootstrap,"The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",MDX,172233,79069,"mdo, cvrebert, XhmikosR, fat, dependabot",16
+withastro,docs,Astro documentation,MDX,1445,1646,"yanthomasdev, sarah11918, jsparkdev, delucis, dreyfus92",2
+meshtastic,meshtastic,Meshtastic project website and documentation,MDX,903,554,"rcarteraz, pdxlocations, jfirwin, sachaw, garthvh",3
+e2b-dev,E2B,Secure open source cloud runtime for AI apps & AI agents,MDX,8001,534,"ValentaTomas, mlejva, jakubno, github-actions, 0div",4
+feature-sliced,documentation,🍰 Architectural methodology for frontend projects,MDX,1844,195,"azinit, illright, AlexandrHoroshih, unordinarity, Krakazybik",3
+base,web,,MDX,406,809,"brendan-defi, kirkas, JFrankfurt, zencephalon, wbnns",1
+newrelic,docs-website,Source code for @newrelic docs. We welcome pull requests and questions on our docs!,MDX,184,1340,"zuluecho9, rhetoric101, ally-sassman, homelessbirds, akristen",0
+e2b-dev,desktop,E2B Desktop Sandbox for LLMs. E2B Sandbox with desktop graphical environment that you can connect to any LLM for secure computer use.,MDX,607,67,"mlejva, mishushakov, ValentaTomas, 0div, github-actions",3
+MetaMask,metamask-docs,Developer documentation for MetaMask,MDX,727,1182,"alexandratran, Montoya, ziad-saab, BboyAkers, dependabot",0
+huggingface,deep-rl-class,This repo contains the Hugging Face Deep Reinforcement Learning Course.,MDX,4257,673,"simoninithomas, osanseviero, sayakpaul, dylwil3, josejuanmartinez",5
+react-native-elements,react-native-elements,Cross-Platform React Native UI Toolkit,MDX,25376,4673,"iRoachie, arpitBhalla, Monte9, dabit3, react-native-elements-ci",3
+getsentry,sentry-docs,Sentry's documentation (and tools to build it),MDX,377,1539,"dcramer, lizokm, imatwawana, bruno-garcia, MimiDumpling",0
+npm,documentation,"Documentation for the npm registry, website, and command-line interface.",MDX,460,3077,"dependabot, lukekarrys, npm-cli-bot, MylesBorins, ethomson",0
+openai,openai-cookbook,Examples and guides for using the OpenAI API,MDX,63434,10312,"ted-at-openai, simonpfish, colin-openai, logankilpatrick, shyamal-anadkat",43
+gpxstudio,gpx.studio,the online GPX file editor,MDX,405,71,"vcoppe, mbof, pdonias, raphaklaus, DePasqualeOrg",3
+uidotdev,usehooks,"A collection of modern, server-safe React hooks – from the ui.dev team",MDX,10478,550,"gragland, tylermcginnis, benadam11, nikasepiskveradze, bozheville",4
+yangshun,front-end-interview-handbook,🌐 Front End interview preparation materials for busy engineers,MDX,42768,5891,"yangshun, niteshseram, ysm-dev, dependabot, AlwaysHacking",9
+ClickHouse,clickhouse-docs,Official documentation for ClickHouse,MDX,132,320,"DanRoscigno, Blargian, gingerwizard, justindeguzman, rfraposa",0
+codewars,docs,The Codewars Docs 🚧 WIP,MDX,58,222,"kazk, hobovsky, Blind4Basics, ggorlen, dependabot",0
+chronark,chronark.com,,MDX,753,429,"chronark, liuxuan30, dodyagung, c0nf1den71al, ryanmalani",0
+shuding,nextra-docs-template,Nextra docs template,MDX,1182,658,"shuding, EndangeredMassa, C-EO",1
+dotnet,EntityFramework.Docs,Documentation for Entity Framework Core and Entity Framework 6,Mermaid,1666,1970,"divega, roji, rowanmiller, ajcvickers, bricelam",0
+MicrosoftDocs,power-automate-docs,,Mermaid,303,298,"MSFTMan, v-aangie, georgiostrantzas, buck1ey, DanaMartens",0
+frida,frida,Clone this repo to build Frida,Meson,17447,1779,"oleavr, s1341, karltk, tyilo, mephi42",12
+twostraws,Inferno,Metal shaders for SwiftUI.,Metal,2598,119,"twostraws, ynagatomo, psalzAppDev, frankschlegel, Czajnikowski",5
+openxla,stablehlo,Backward compatible ML compute opset inspired by HLO/MHLO,MLIR,467,135,"ghpvnist, GleasonK, burmako, sdasgup3, mlevesquedion",0
+tenstorrent,tt-mlir,Tenstorrent MLIR compiler,MLIR,120,24,"nsmithtt, vmilosevic, kmabeeTT, jnie-TT, tapspatel",0
+OpenModelica,OpenModelica,OpenModelica is an open-source Modelica-based modeling and simulation environment intended for industrial and academic usage.,Modelica,952,318,"sjoelund, perost, adrpo, adeas31, lochel",0
+modular,max,The MAX Platform (includes Mojo),Mojo,23873,2594,"abduld, lattner, JoeLoser, modularbot, jackos",13
+LayerZero-Labs,LayerZero-v2,,Move,632,392,"carmenjiawenc, zouguangxian, cowboyisaac, ziming-zung, ryandgoulding",0
+aws,eks-charts,Amazon EKS Helm chart repository,Mustache,1241,1007,"eks-bot, stefanprodan, jaypipes, kishorj, bwagner5",0
+argoproj,argo-helm,ArgoProj Helm Charts,Mustache,1920,1935,"mkilchhofer, yu-croco, pdrastil, mbevc1, jmeridth",2
+amzn,selling-partner-api-models,This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.,Mustache,671,756,"jevoniuk, waldrogi, salric, mentiaa, rickdeee",0
+swagger-api,swagger-codegen,"swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.",Mustache,17337,6035,"wing328, fehguy, HugoMario, xhh, frantuma",3
+prometheus-community,helm-charts,Prometheus community Helm charts,Mustache,5464,5180,"monotek, zanhsieh, zeritti, jkroepke, DrFaust92",3
+Kong,charts,Helm charts for Kong,Mustache,262,486,"rainest, pmalek, czeslavo, hbagdi, mflendrich",0
+fluent,helm-charts,Helm Charts for Fluentd and Fluent Bit,Mustache,408,473,"naseemkullah, stevehipwell, patrick-stephens, dioguerra, sebbrandt87",0
+vmware-tanzu,helm-charts,Contains Helm charts for Kubernetes related open source tools,Mustache,269,381,"jenting, carlisia, ywk253100, cpanato, nrb",0
+temporalio,helm-charts,Temporal Helm charts,Mustache,369,386,"temporal-data, robholland, alexshtin, wxing1292, mastermanu",0
+goharbor,harbor-helm,The helm chart to deploy Harbor,Mustache,1273,783,"ywk253100, reasonerjt, heww, MinerYang, ninjadq",2
+kubecost,cost-analyzer-helm-chart,Kubecost helm chart,Mustache,521,422,"AjayTripathy, mbolt35, jessegoodier, chipzoller, dwbrown2",0
+sentry-kubernetes,charts,Easily deploy Sentry on your Kubernetes Cluster,Mustache,1184,540,"Mokto, actions-user, patsevanton, renovate, adonskoy",0
+codecentric,helm-charts,A curated set of Helm charts brought to you by codecentric,Mustache,641,613,"unguiculus, cc-charts-bot, mircohacker, thomasdarimont, grieshaber",0
+jenkinsci,helm-charts,Jenkins helm charts,Mustache,604,899,"timja, jenkins-dependency-updater, torstenwalter, dependabot, NotMyFault",0
+thmsgbrt,thmsgbrt,My awesome README.md,Mustache,485,1044,"thmsgbrt, dependabot, Devesh225",0
+netbox-community,netbox-chart,A Helm chart for NetBox,Mustache,287,171,"renovate, LeoColomb, RangerRick, bootc, dependabot",0
+nf-core,modules,Repository to host tool-specific module files for the Nextflow DSL2 community!,Nextflow,355,837,"drpatelh, jfy133, maxulysse, nvnieuwk, GallVp",0
+nf-core,rnaseq,"RNA sequencing analysis pipeline using STAR, RSEM, HISAT2 or Salmon with gene/isoform counts and extensive quality control.",Nextflow,1016,750,"drpatelh, pinin4fjords, ewels, maxulysse, apeltzer",0
+zedeus,nitter,Alternative Twitter front-end,Nim,10815,573,"zedeus, LainLayer, jackyzy823, setenforce0, PeterDaveHello",3
+nim-lang,Nim,"Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).",Nim,17005,1490,"Araq, traviscibot, ringabout, dom96, github-actions",4
+danth,stylix,"Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid",Nix,1566,209,"danth, trueNAHO, awwpotato, Flameopathic, dwarfmaster",6
+NixOS,nixpkgs,Nix Packages collection & NixOS,Nix,20098,15464,"r-ryantm, fabaff, SuperSandro2000, NickCao, mweinelt",15
+cachix,devenv,"Fast, Declarative, Reproducible, and Composable Developer Environments using Nix",Nix,5061,377,"domenkozar, sandydoo, github-actions, bobvanderlinden, shyim",4
+catppuccin,nix,❄️ Soothing pastel theme for Nix,Nix,508,63,"getchoo, github-actions, isabelroses, Stonks3141, Anomalocaridid",0
+NixOS,nixos-hardware,A collection of NixOS modules covering hardware quirks.,Nix,2355,727,"Mic92, mexisme, lukateras, bors, Lyndeno",3
+nix-community,nixvim,"Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @MattSturgeon, @khaneliman]",Nix,2127,317,"GaetanLepage, MattSturgeon, khaneliman, github-actions, pta2002",1
+nix-community,home-manager,Manage a user environment using Nix [maintainer=@rycee],Nix,7907,1996,"rycee, khaneliman, ncfavier, berbiche, teto",2
+the-nix-way,dev-templates,Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins],Nix,1600,132,"lucperkins, stephenstubbs, joelbenway, sebaszv, nothingmuch",1
+NotAShelf,nvf,"Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS",Nix,762,98,"NotAShelf, actions-user, horriblename, n3oney, diniamo",2
+mitchellh,nixos-config,My NixOS configurations.,Nix,2404,222,"mitchellh, klivan, supermarin, fud, lucamaraschi",3
+Misterio77,nix-starter-configs,Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!,Nix,3032,155,"Misterio77, axgfn, YanniPapandreou, musjj, Gerg-L",4
+nix-community,nixos-generators,Collection of image builders [maintainer=@Lassulus],Nix,2065,149,"Lassulus, github-actions, Mic92, dependabot, DavHau",2
+h5bp,Front-end-Developer-Interview-Questions,"A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.",Nunjucks,60257,11098,"darcyclarke, roblarsen, dependabot, appleboy, cezaraugusto",7
+madrilene,eleventy-excellent,Eleventy starter based on the workflow suggested by Andy Bell's buildexcellentwebsit.es.,Nunjucks,466,88,"madrilene, krgr, httpsterio, jducrot, erikyuzwa",1
+omerxx,dotfiles,My dotfiles synced from localhost and remote machines,Nushell,1826,150,"omerxx, mattst88, assafdori, JZsmitty",3
+SDWebImage,SDWebImage,Asynchronous image downloader with cache support as a UIImageView category,Objective-C,25254,5972,"dreampiggy, bpoplauschi, zhongwuzw, kinarobin, mythodeia",3
+openid,AppAuth-iOS,iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers.,Objective-C,1844,797,"WilliamDenniss, petea, julienbodet, mdmathias, iainmcgin",2
+sparkle-project,Sparkle,A software update framework for macOS,Objective-C,7733,1060,"zorgiepoo, kornelski, andymatuschak, jakepetroules, uliwitness",8
+realm,realm-swift,Realm is a mobile database: a replacement for Core Data & SQLite,Objective-C,16463,2170,"tgoyne, jpsim, alazier, mekjaer, bdash",1
+FLEXTool,FLEX,An in-app debugging and exploration tool for iOS,Objective-C,14295,1726,"NSExceptional, ryanolsonk, matrush, JaviSoto, TimOliver",2
+adjust,ios_sdk,This is the iOS SDK of,Objective-C,634,301,"uerceg, nonelse, wellle, Aditi3, genadyb",0
+google,GoogleSignIn-iOS,Enables iOS and macOS apps to sign in with Google.,Objective-C,577,219,"petea, mdmathias, Alex-4-Git, dependabot, brnnmrls",0
+alexzielenski,Mousecape,Cursor Manager for OSX,Objective-C,1573,171,"alexzielenski, justin0a0, verhovsky",5
+AFNetworking,AFNetworking,"A delightful networking framework for iOS, macOS, watchOS, and tvOS.",Objective-C,33441,10474,"mattt, kcharwood, SlaunchaMan, 0xced, kylef",2
+google,promises,Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.,Objective-C,3823,301,"shoumikhin, ykjchen, ncooke3, dmace2, eric",1
+google,GoogleUtilities,,Objective-C,116,51,"paulb777, ncooke3, maksymmalyhin, ryanwilson, andrewheard",0
+google,gtm-session-fetcher,Google Toolbox for Mac - Session Fetcher,Objective-C,258,158,"thomasvl, mwyman, sergiocampama, bhamiltoncx, paulb777",1
+AliSoftware,OHHTTPStubs,"Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!",Objective-C,5051,601,"AliSoftware, corinnekrych, MaxGabriel, jeffctown, JinlianWang",0
+TimOliver,TOCropViewController,A view controller for iOS that allows users to crop portions of UIImage objects,Objective-C,4807,982,"TimOliver, XD-CI, huang-kun, chiformihai, tristangrichard",1
+git-up,GitUp,The Git interface you've been missing all your life has finally arrived.,Objective-C,11655,1317,"swisspol, lucasderraugh, zwaldowski, lolgear, lapfelix",0
+pocketsvg,PocketSVG,"Easily convert your SVG files into CGPaths, CAShapeLayers, and UIBezierPaths",Objective-C++,1687,244,"arielelkin, fjolnir, cysp, halseth, dlalic",0
+textmate,textmate,TextMate is a graphical text editor for macOS 10.12 or later,Objective-C++,14311,1730,"sorbits, rdwampler, jtbandes, dusek, nanoant",2
+zoontek,react-native-permissions,"An unified permissions API for React Native on iOS, Android and Windows.",Objective-C++,4210,846,"zoontek, yonahforst, adapptor-kurt, trestrantham, jochem725",2
+facebookarchive,pop,"An extensible iOS and OS X animation library, useful for physics-based interactions.",Objective-C++,19656,2880,"kimon, grp, b3ll, jcbertin, nlutsenko",0
+gree,unity-webview,,Objective-C++,2418,704,"KojiNakamaru, splhack, takeh1k0, n-yoda, dolow",2
+sbmpost,AutoRaise,AutoRaise (and focus) a window when hovering over it with the mouse,Objective-C++,1899,68,"sbmpost, Dimentium, fathah1",1
+semgrep,semgrep,Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.,OCaml,11518,686,"aryx, brendongo, mjambon, IagoAbal, emjin",7
+MinaProtocol,mina,"Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.",OCaml,2036,566,"mrmr1993, psteckler, dkijania, deepthiskumar, lk86",1
+ocaml,ocaml,"The core OCaml system: compilers, runtime system, base libraries",OCaml,5745,1136,"xavierleroy, gasche, dra27, alainfrisch, Octachron",3
+opengrep,opengrep,🔎 Static code analysis engine to find security issues in code.,OCaml,1244,82,"mjambon, dimitris-m, semgrep-ci, IagoAbal, nmote",1
+semgrep,ocaml-tree-sitter-core,OCaml code generator and runtime library for handling typed tree-sitter CSTs,OCaml,29,6,"mjambon, aryx, colleend, Ruin0x11, joseemds",0
+facebook,infer,"A static analyzer for Java, C, C++, and Objective-C",OCaml,15187,2031,"jvillard, jberdine, dulmarod, skcho, sblackshear",2
+kuis-isle3sw,IoPLMaterials,"Materials for the class ""Implementation of Programming Languages"" in Kyoto University.",OCaml,164,29,"ksuenaga, ushitora-anqou, smorimoto, hiromi-mi, taiseiKMC",1
+semgrep,testo,Test framework for OCaml,OCaml,21,4,"mjambon, gjaldon, shonfeder, aryx, NoahTheDuke",0
+bcpierce00,unison,Unison file synchronizer,OCaml,4513,243,"tleedjarv, gdt, bcpierce00, g-raud, ben-willmore",3
+awslabs,s2n-bignum,,OCaml,156,29,"jargh, aqjune-aws, aqjune, justsmth, SalusaSecondus",0
+janestreet,base,Standard library for OCaml,OCaml,904,136,"xclerc, trefis, aalekseyev, public-release, dkalinichenko-js",0
+astrada,google-drive-ocamlfuse,FUSE filesystem over Google Drive,OCaml,5699,357,"astrada, rgrinberg, Cinemacloud, boonedoggle, Justintime50",0
+andrejbauer,plzoo,Programming Languages Zoo,OCaml,1489,93,"andrejbauer, matijapretnar, steshaw, co-dan, amir",0
+odin-lang,Odin,Odin Programming Language,Odin,8215,733,"gingerBill, Kelimion, laytan, Feoramund, flysand7",4
+open-telemetry,semantic-conventions,"Defines standards for generating consistent, accessible telemetry across a variety of domains",Open Policy Agent,353,223,"lmolkova, trask, joaopgrassi, arminru, jsuereth",2
+Azure,azure-policy,Repository for Azure Resource Policy built-in definitions and samples,Open Policy Agent,1561,1109,"pilor, cyl33922072, krnese, kenieva, gokmen-msft",0
+BelfrySCAD,BOSL2,"The Belfry OpenScad Library, v2.0. An OpenSCAD library of shapes, masks, and manipulators to make working with OpenSCAD easier. BETA",OpenSCAD,1388,145,"revarbat, adrianVmariano, RAMilewski, RonaldoCMP, amatulic",1
+ostat,gridfinity_extended_openscad,Gridfinity Extended OpenSCAD Model,OpenSCAD,423,56,"ostat, vector76, minchinweb, Monniasza, fmthoma",2
+HeidiSQL,HeidiSQL,"A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi",Pascal,5083,480,"ansgarbecker, franciscoernestoteixeira, igitur, rentalhost, tgoncuoglu",4
+cheat-engine,cheat-engine,Cheat Engine. A development environment focused on modding,Pascal,16018,2315,"cheat-engine, supMarco, mgrinzPlayer, rzndsa, BlankUserLing",6
+HashLoad,horse,"Fast, opinionated, minimalist web framework for Delphi",Pascal,1222,224,"viniciussanchez, dliocode, gabrielbaltazar, hunsche, CarlosHe",1
+salvadordf,CEF4Delphi,"CEF4Delphi is an open source project to embed Chromium-based browsers in applications made with Delphi or Lazarus/FPC for Windows, Linux and MacOS.",Pascal,1242,387,"salvadordf, ahausladen, ashumkin, paweld, GregSpa",0
+jrsoftware,issrc,"Inno Setup is a free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.",Pascal,4597,968,"martijnlaan, jordanrussell, jogo-, dscho, KngStr",1
+nofeletru,UsbAsp-flash,"Program allow you to program flash memory on the protocols spi, I2C, MicroWire. Supports CH341a, CH347, UsbAsp, AVRISP(LUFA), Arduino, FT232H.",Pascal,1043,207,"nofeletru, direstraits96, wc7086, systemcrash, MELERIX",1
+doublecmd,doublecmd,Double Commander is a free cross platform open source file manager with two panels side by side.,Pascal,3128,221,"alexx2000, rich2014, denis-bisson, Skif-off, j2969719",2
+FrankBijnen,ExifToolGui,A GUI for ExifTool,Pascal,526,26,"FrankBijnen, Temerold, wcxu21",2
+brendangregg,FlameGraph,Stack trace visualizer,Perl,18106,2012,"brendangregg, versable, timbunce, shawn-sterling, knittl",11
+AlDanial,cloc,"cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",Perl,20661,1052,"AlDanial, stsnel, wonderbird, jolkdarr, cbek",7
+glpi-project,glpi-agent,GLPI Agent,Perl,289,75,"goneri, guillomovitch, g-bougard, ddurieux, devtom30",0
+ocpi,ocpi,"The Open Charge Point Interface (OCPI) allows for a scalable, automated roaming setup between Charge Point Operators and e-Mobility Service Providers. It supports authorisation, charge point information exchange (incl transaction events), charge detail record exchange and finally, the exchange of smart-charging commands between parties.",Perl,491,214,"reinierl, Alan-Stewart, simonschllng, simonphilips, bramus",0
+yaml,yaml-test-suite,"Comprehensive, language independent Test Suite for YAML",Perl,208,67,"ingydotnet, perlpunk, flyx, eemeli, rogpeppe",0
+Gaius-Augustus,BRAKER,BRAKER is a pipeline for fully automated prediction of protein coding gene structures with GeneMark-ES/ET/EP/ETP and AUGUSTUS in novel eukaryotic genomes,Perl,400,87,"KatharinaHoff, tomasbruna, LarsGab, MarioStanke, FabianGumz",1
+ddclient,ddclient,ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.,Perl,2795,355,"rhansen, SuperSandro2000, LenardHess, wimpunk, dkerr64",4
+inverse-inc,packetfence,"PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",Perl,1460,299,"jrouzierinverse, julsemaan, fdurand, satkunas, nqb",0
+linux-test-project,lcov,LCOV,Perl,974,244,"henry2cox, oberpar, hartwork, nega0, bjornfor",1
+sullo,nikto,Nikto web server scanner,Perl,9187,1306,"sullo, tautology0, opt9, pvdl, wireghoul",7
+trinityrnaseq,trinityrnaseq,Trinity RNA-Seq de novo transcriptome assembly,Perl,855,319,"brianjohnhaas, benfulton, mr-c, g1o, GeorgescuC",1
+adrienverge,openfortivpn,Client for PPP+TLS VPN tunnel services,Perl,2901,335,"DimitriPapadopoulos, mrbaseman, adrienverge, lkundrak, martinetd",0
+major,MySQLTuner-perl,MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.,Perl,9175,1292,"jmrenouard, major, grooverdan, netsandbox, longradix",0
+lm-sensors,lm-sensors,lm-sensors repository,Perl,967,278,"groeck, olysonek, jschwender, rfdougherty, sibeream",0
+centreon,centreon-plugins,Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure.,Perl,319,288,"garnier-quentin, Sims24, UrBnW, thibaults-centreon, omercier",0
+SpiderLabs,owasp-modsecurity-crs,OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository),Perl,2460,730,"lifeforms, dune73, fgsch, csanders-git, spartantri",0
+fusioninventory,fusioninventory-agent,FusionInventory Agent,Perl,258,126,"goneri, guillomovitch, g-bougard, devtom30, po1vo",0
+coollabsio,coolify,An open-source & self-hostable Heroku / Netlify / Vercel alternative.,PHP,40372,2416,"andrasbacsai, peaklabs-dev, ijpatricio, sawa-ko, theh2so4",54
+filamentphp,filament,"A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.",PHP,22872,3365,"danharrin, zepfietje, ryanscherler, ryangjchandler, ralphjsmit",25
+grokability,snipe-it,A free open source IT asset/license management system,PHP,12063,3355,"snipe, marcusmoore, Godmartinz, uberbrady, spencerrlongg",32
+composer,composer,Dependency Manager for PHP,PHP,28938,4614,"Seldaek, naderman, alcohol, igorw, curry684",3
+firefly-iii,firefly-iii,Firefly III: a personal finances manager,PHP,18836,1669,"JC5, dependabot, github-actions, mergify, sephrat",29
+magento,magento2,"Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.",PHP,11768,9356,"magento-engcom-team, slavvka, zakdma, okorshenko, rganin",2
+guzzle,guzzle,"Guzzle, an extensible PHP HTTP client",PHP,23381,2398,"mtdowling, sagikazarmark, GrahamCampbell, Nyholm, gmponos",3
+bagisto,bagisto,Free and open source laravel eCommerce platform,PHP,18031,2429,"jitendra-webkul, devansh-webkul, amit-webkul, shivendra-webkul, prashant-webkul",19
+laravel,framework,The Laravel Framework.,PHP,33515,11324,"taylorotwell, GrahamCampbell, driesvints, TBlindaruk, themsaid",5
+drush-ops,drush,"Drush is a command-line shell and scripting interface for Drupal, a veritable Swiss Army knife designed to make life easier for those who spend their working hours hacking away at the command prompt.",PHP,2353,1096,"weitzman, actions-user, greg-1-anderson, massgov-outsider, jonhattan",1
+roots,sage,"WordPress starter theme with Laravel Blade components and templates, Tailwind CSS, and block editor support",PHP,12938,3066,"retlehs, swalkinshaw, QWp6t, austinpray, Log1x",4
+roundcube,roundcubemail,The Roundcube Webmail suite,PHP,6217,1666,"alecpl, thomascube, johndoh, yllar, till",4
+PHP-CS-Fixer,PHP-CS-Fixer,A tool to automatically fix PHP Coding Standards issues,PHP,13126,1599,"keradus, SpacePossum, kubawerlos, fabpot, julienfalque",3
+barryvdh,laravel-dompdf,A DOMPDF Wrapper for Laravel,PHP,6957,985,"barryvdh, erikn69, GrahamCampbell, zaherg, kevinruscoe",1
+phpmyadmin,phpmyadmin,A web interface for MySQL and MariaDB,PHP,7496,3470,"nijel, MauricioFauth, madhuracj, williamdes, weblate",14
+twigphp,Twig,"Twig, the flexible, fast, and secure template language for PHP",PHP,8271,1276,"fabpot, derickr, nicolas-grekas, Tobion, hason",2
+Seldaek,monolog,"Sends your logs to files, sockets, inboxes, databases and various web services",PHP,21206,1906,"Seldaek, stof, gmponos, msabramo, akalongman",3
+phpseclib,phpseclib,PHP Secure Communications Library,PHP,5460,900,"terrafrost, bantu, phpsyscoder, jack-worman, cnelissen",1
+nextcloud,all-in-one,📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.,PHP,6625,757,"szaimen, dependabot, Zoey2936, nextcloud-command, docjyJ",13
+DataDog,dd-trace-php,Datadog PHP Clients,PHP,522,163,"labbati, SammyK, morrisonlevi, pawelchcki, bwoebi",0
+symfony,symfony,The Symfony PHP framework,PHP,30305,9599,"fabpot, nicolas-grekas, xabbuh, derrabus, chalasr",5
+shopware,shopware,Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions,PHP,3017,1074,"OliverSkroblin, pweyck, shyim, jleifeld, keulinho",0
+plantuml-stdlib,C4-PlantUML,C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures,PlantUML,6712,1124,"kirchsth, adrianvlupu, Potherca, RicardoNiepel, coldacid",3
+pgpartman,pg_partman,Partition management extension for PostgreSQL,PLpgSQL,2278,290,"keithf4, jcoleman, bradediger, theory, vitaly-burovoy",3
+tembo-io,pgmq,A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.,PLpgSQL,3125,85,"ChuckHend, v0idpwn, tavallaie, theory, ianstanton",7
+lfittl,activerecord-clean-db-structure,Automatic cleanup for the Rails db/structure.sql file (ActiveRecord/PostgreSQL),PLpgSQL,149,38,"lfittl, ghiculescu, andyatkinson, dependabot, nvanoorschot",0
+TryGhost,node-sqlite3,SQLite3 bindings for Node.js,PLpgSQL,6329,831,"kkaefer, daniellockyer, Mithgol, kewde, orlandov",0
+digoal,blog,"Opensource,Database,AI,Business,Minds. git clone --depth 1 https://github.com/digoal/blog",PLpgSQL,8204,1895,"digoal, EamonZhang, andrelaszlo, lonecloud, DarkForcesX",2
+timescale,pgai,"A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL",PLpgSQL,4714,249,"jgpruitt, JamesGuthrie, billy-the-fish, alejandrodnm, Askir",6
+openmaptiles,openmaptiles,OpenMapTiles Vector Tile Schema Implementation,PLpgSQL,2687,614,"lukasmartinelli, jirik, nyurik, ImreSamu, ZeLonewolf",1
+actions,runner-images,GitHub Actions runner images,PowerShell,11001,3306,"github-actions, 459680, al-cheb, miketimofeev",5
+cisagov,ScubaGear,Automation to assess the state of your M365 tenant against CISA's baselines,PowerShell,2096,281,"schrolla, buidav, crutchfield, james-garriss, adhilto",0
+ntdevlabs,tiny11builder,Scripts to build a trimmed-down Windows 11 image.,PowerShell,11744,958,"ntdevlabs, Karl-WE, szepeviktor, eugenesan, rcmaehl",29
+ChrisTitusTech,winutil,"Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",PowerShell,32781,1836,"ChrisTitusTech, MyDrift-user, og-mrk, Marterich, CodingWonders",32
+SpecterOps,BloodHound-Legacy,Six Degrees of Domain Admin,PowerShell,10148,1759,"rvazarkar, andyrobbins, JonasBK, HarmJ0y, ShutdownRepo",4
+jenkinsci,docker,Docker official jenkins repo,PowerShell,6950,4606,"dependabot, carlossg, MarkEWaite, dduportal, github-actions",1
+xiv3r,Burpsuite-Professional,Latest Burpsuite Professional Version 2025.*.*,PowerShell,637,190,"xiv3r, rabin-thami, ruban-s, powerstone666",7
+hak5,usbrubberducky-payloads,The Official USB Rubber Ducky Payload Repository,PowerShell,4710,1463,"aleff-github, dallaswinger, hak5darren, 0i41E, hak5peaks",5
+microsoft,ARI,Azure Resource Inventory - It's a Powerful tool to create EXCEL inventory from Azure Resources with low effort,PowerShell,1259,430,"Claudio-Merola, ClaudioMerola, RenatoGregio, EdneiMonteiro, quintindk",10
+Azure,Enterprise-Scale,"The Azure Landing Zones (Enterprise-Scale) architecture provides prescriptive guidance coupled with Azure best practices, and it follows design principles across the critical design areas for organizations to define their Azure architecture",PowerShell,1794,1005,"jtracey93, krnese, github-actions, Springstone, hjscherer",0
+PowerShellMafia,PowerSploit,PowerSploit - A PowerShell Post-Exploitation Framework,PowerShell,12275,4662,"HarmJ0y, clymb3r, obscuresec, webstersprodigy, FuzzySecurity",2
+Orange-Cyberdefense,GOAD,game of active directory,PowerShell,6317,872,"Mayfly277, aleemladha, mubix, fsacer, kernel-sanders",4
+ScoopInstaller,Versions,📦 A Scoop bucket for alternative versions of apps.,PowerShell,232,224,"github-actions, r15ch13, niheaven, issaclin32, rasa",0
+microsoft,winget-dsc,,PowerShell,51,27,"ryfu-msft, Trenly, Gijsreyn, mdanish-kh, denelon",0
+microsoft,AL,Home of the Dynamics 365 Business Central AL Language extension for Visual Studio Code. Used to track issues regarding the latest version of the AL compiler and developer tools available in the Visual Studio Code Marketplace or as part of the AL Developer Preview builds for Dynamics 365 Business Central.,PowerShell,786,253,"SusanneWindfeldPedersen, SBalslev, Gallimathias, atoader, esbenk",0
+Romanitho,Winget-AutoUpdate,WAU daily updates apps as system and notify connected users. (Allowlist and Blocklist support),PowerShell,1433,155,"Romanitho, KnifMelti, github-actions, AndrewDemski-ad-gmail-com, dependabot",0
+MicrosoftLearning,PL-300-Microsoft-Power-BI-Data-Analyst,,PowerShell,576,422,"AngieRudduck, bpmoring, afelix-95, AnthonyOakley, LuizMacedo",0
+ansible-collections,ansible.windows,Windows core collection for Ansible,PowerShell,261,184,"jborean93, amitosw15, Yaish25491, Andersson007, shahargolshani",0
+Raphire,Win11Debloat,"A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.",PowerShell,19000,817,"Raphire, kapad, jasonpatrickellykrause, helge000, eltociear",29
+hackclub,OnBoard,"💡 Join 1,000 teenagers and make your first PCB with a $100 grant!",Prolog,907,1090,"LimesKey, kvnyng, maxwofford, karmanyaahm, blazecoding2009",2
+StartBootstrap,startbootstrap-resume,A Bootstrap 4 resume/CV theme created by Start Bootstrap,Pug,2084,2688,"davidtmiller, jimcullenaus, heymrhayes",1
+anders94,blockchain-demo,A web-based demonstration of blockchain concepts.,Pug,5454,2712,"anders94, dependabot, rolandguelle, Ajeet-Yadav, DaWe35",0
+nammayatri,nammayatri,A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.,PureScript,2277,287,"hkmangla, witcher-shailesh, khuzema786, 0utkarsh, Vignesh-772",1
+microsoft,markitdown,Python tool for converting files and office documents to Markdown.,Python,52723,2604,"afourney, gagb, sugatoray, PetrAPConsulting, l-lumin",980
+bytedance,UI-TARS,,Python,4401,293,"pooruss, mingcomplex, AHEADer, li-plus, yuyutaotao",96
+1Panel-dev,MaxKB,"💬 MaxKB is an open-source AI assistant for enterprise. It seamlessly integrates RAG pipelines, supports robust workflows, and provides MCP tool-use capabilities.",Python,16064,2085,"shaohuzhang1, wangdan-fit2cloud, liuruibin, wxg0103, liqiang-fit2cloud",189
+RVC-Boss,GPT-SoVITS,1 min voice data can also be used to train a good TTS model! (few shot voice cloning),Python,44857,4986,"RVC-Boss, KamioRinn, XXXXRT666, SapphireLab, Yuan-ManX",116
+Byaidu,PDFMathTranslate,PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero,Python,21624,1832,"Byaidu, awwaawwa, hellofinch, reycn, tastelikefeet",272
+jumpserver,jumpserver,"JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.",Python,27213,5459,"ibuler, BaiJiangJie, feng626, fit2bot, xuxinwen",285
+ansible,awx,"AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.",Python,14533,3504,"softwarefactory-project-zuul, AlanCoding, mabashian, ryanpetrello, matburt",3
+autogluon,autogluon,Fast and Accurate ML in 3 Lines of Code,Python,8698,997,"Innixma, shchur, zhiqiangdon, yinweisu, gradientsky",3
+oumi-ai,oumi,"Everything you need to build state-of-the-art foundation models, end-to-end.",Python,8042,584,"nikg4, oelachqar, taenin, wizeng23, kaisopos",61
+D-Ogi,WatermarkRemover-AI,AI-Powered Watermark Remover using Florence-2 and LaMA Models: A Python application leveraging state-of-the-art deep learning models to effectively remove watermarks from images with a user-friendly PyQt6 interface.,Python,303,68,"D-Ogi, crosstyan, stickerdaniel",24
+airbytehq,airbyte,"The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.",Python,17932,4468,"airbyteio, alafanechere, octavia-squidington-iii, marcosmarxm, sherifnada",17
+luisbocanegra,plasma-panel-colorizer,Latte-Dock and WM status bar customization for the KDE Plasma panels,QML,416,5,"luisbocanegra, mill413, Vistaus, hsitter",2
+catsout,wallpaper-engine-kde-plugin,A kde wallpaper plugin integrating wallpaper engine,QML,2085,86,"catsout, fxzjshm, zoriya, lunastrans, davitz",1
+alicevision,Meshroom,3D Reconstruction Software,QML,11795,1135,"fabiencastan, yann-lty, cbentejac, mugulmd, nrondaud",3
+satijalab,seurat,R toolkit for single cell genomics,R,2422,946,"andrewwbutler, mojaveazure, yuhanH, dcollins15, saketkc",1
+rdpeng,ProgrammingAssignment2,Repository for Programming Assignment 2 for R Programming on Coursera,R,850,143899,"rdpeng, gustavdelius",0
+benjjneb,dada2,Accurate sample inference from amplicon data with single nucleotide resolution,R,491,147,"benjjneb, gblanchard4, joey711, nturaga, jwokaty",0
+broadinstitute,infercnv,Inferring CNV from Single-Cell RNA-Seq,R,605,170,"brianjohnhaas, GeorgescuC, brownmp, TimothyTickle, eweitz",0
+r-lib,tree-sitter-r,,R,118,34,"DavisVaughan, jimhester, kevinushey, aspeddro, echasnovski",0
+tidyverse,dplyr,dplyr: A grammar of data manipulation,R,4862,2128,"romainfrancois, hadley, krlmlr, lionel-, DavisVaughan",0
+immunogenomics,harmony,"Fast, sensitive and accurate integration of single-cell data with Harmony",R,565,103,"pati-ni, ilyakorsunsky, hongchengyao, wikiselev, slowkow",0
+joey711,phyloseq,"phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:",R,603,189,"joey711, dtenenba, nturaga, hpages, jnpaulson",1
+rstudio,reticulate,R Interface to Python,R,1695,339,"t-kalinowski, jjallaire, kevinushey, terrytangyuan, dfalbel",0
+YuLab-SMU,clusterProfiler,📊 A universal enrichment tool for interpreting omics data,R,1086,259,"GuangchuangYu, huerqiang, dtenenba, Jigyasa-G, dalloliogm",1
+chris-mcginnis-ucsf,DoubletFinder,R package for detecting doublets in single-cell RNA sequencing data,R,459,117,"chris-mcginnis-ucsf, haibol2016, ekernf01, FloWuenne, NathanSkene",1
+jokergoo,ComplexHeatmap,Make Complex Heatmaps,R,1364,235,"jokergoo, dtenenba, nturaga, jwokaty, hpages",0
+Rdatatable,data.table,R's data.table package extends data.frame:,R,3719,1006,"mattdowle, arunsrinivasan, MichaelChirico, jangorecki, ben-schwen",1
+cole-trapnell-lab,monocle3,,R,378,104,"hpliner, brgew, ctrapnell, aishwaryagogate, jenniferfranks",1
+rstudio,renv,renv: Project environments for R.,R,1055,154,"kevinushey, hadley, cderv, aronatkins, salim-b",0
+rstudio,rmarkdown,Dynamic Documents for R,R,2927,984,"jjallaire, yihui, cderv, jmcphers, javierluraschi",0
+r-spatial,sf,Simple Features for R,R,1374,303,"edzer, web-flow, rsbivand, etiennebr, Robinlovelace",0
+rstudio,shiny,Easy interactive web applications with R,R,5463,1874,"wch, jcheng5, cpsievert, schloerke, yihui",0
+Monika-After-Story,MonikaModDev,DDLC fan mod to extend Monika,Ren'Py,1262,689,"ThePotatoGuy, multimokia, jmwall24, Booplicate, aldoram5",1
+Xilinx,Vitis-HLS-Introductory-Examples,,ReScript,670,159,"f-rivo, ramanan-radhakrishnan, nismehta-amd, akhilayyagari, ravicho",0
+juspay,hyperswitch-web,Hyperswitch Web SDK: A Rescript powered React library for seamless payment integration and customization.,ReScript,69,78,"semantic-release-bot, PritishBudhiraja, ArushKapoorJuspay, sakksham7, prafulkoppalkar",0
+odoo,documentation,Odoo documentation sources,reStructuredText,858,9057,"mart-e, tivisse, C3POdoo, AntoineVDV, ksc-odoo",0
+ckeditor,ckeditor5,"Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.",Rich Text Format,10024,3735,"Reinmar, jodator, godai78, oleq, pomek",5
+cncf,foundation,☁️♮🏛 This repo contains several documents related to the operation of the CNCF. File non-technical issues related to CNCF here.,Rich Text Format,588,629,"amye, krook, Cmierly, caniszczyk, k8tgreenley",0
+jlord,patchwork,All the Git-it Workshop completers!,Rich Text Format,1132,42202,"reporobot, jlord, arlolanuzo, mikiyoshi, hi-light",0
+ckeditor,ckeditor4,The best enterprise-grade WYSIWYG editor. Fully customizable with countless features and plugins.,Rich Text Format,5806,2477,"Reinmar, Comandeer, mlewand, jacekbogdanski, oleq",0
+renode,renode,Renode - Antmicro's open source simulation and virtual development framework for complex embedded systems,RobotFramework,1829,329,"mateusz-holenko, PiotrZierhoffer, p-woj, mszprejda, ajelinski",0
+pyenv,pyenv,Simple Python version management,Roff,41778,3164,"yyuu, native-api, anton-petrov, sstephenson, mislav",18
+sidpalas,devops-directive-docker-course,Companion repo for complete Docker course,Roff,2379,1645,"sidpalas, torgoton, mesmith027, abdelhaqelamraoui",4
+nodenv,node-build,Install NodeJS versions,Roff,276,79,"jasonkarns, hsbt, minimum2scp, nodenv-bot, mislav",0
+ophub,amlogic-s9xxx-armbian,"Support for Armbian in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.",Roff,7059,2257,"ophub, 13584452567, livelier, Calmact, danboid",1
+microsoft,azurelinux,Linux OS for Azure 1P services and edge appliances,RPM Spec,4427,573,"PawelWMS, CBL-Mariner-Bot, jslobodzian, mfrw, anphel31",2
+spree,spree,"An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev",Ruby,14581,5074,"damianlegawiec, radar, schof, MatthewKennedy, BDQ",7
+dependabot,dependabot-core,🤖 Dependabot's core logic for creating update PRs.,Ruby,4999,1103,"greysteil, feelepxyz, jurre, dependabot, deivid-rodriguez",1
+jekyll,jekyll,🌐 Jekyll is a blog-aware static site generator in Ruby,Ruby,49920,10084,"parkr, jekyllbot, ashmaroli, mattr-, mojombo",15
+hashicorp,vagrant,Vagrant is a tool for building and distributing development environments.,Ruby,26613,4444,"mitchellh, chrisroberts, briancain, soapy1, sethvargo",5
+discourse,discourse,"A platform for community discussion. Free, open, simple.",Ruby,43815,8511,"SamSaffron, eviltrout, tgxworld, ZogStriP, jjaffeux",11
+heartcombo,devise,Flexible authentication solution for Rails with Warden.,Ruby,24181,5533,"josevalim, carlosantoniodasilva, lucasmazza, rafaelfranca, nashby",0
+chef,chef,"Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale",Ruby,7729,2516,"tas50, lamont-granquist, danielsdeleo, chef-ci, adamhjk",1
+mileszs,wicked_pdf,PDF generator (from HTML) plugin for Ruby on Rails,Ruby,3562,650,"unixmonkey, pedrofurtado, lleirborras, sharpyfox, yui-knk",0
+github-linguist,linguist,"Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",Ruby,12677,4478,"arfon, josh, tnm, lildude, pchaigno",5
+puma,puma,A Ruby/Rack web server built for parallelism,Ruby,7755,1457,"evanphx, MSP-Greg, nateberkopec, schneems, dentarg",2
+basecamp,kamal,Deploy web apps anywhere.,Ruby,12405,541,"djmb, dhh, igor-alexandrov, calmyournerves, nickhammond",3
+zammad,zammad,Zammad is a web based open source helpdesk/customer support system,Ruby,4774,805,"martini, mgruner, mrflix, thorsteneckel, rolfschmidt",4
+rubocop,rubocop,"A Ruby static code analyzer and formatter, based on the community Ruby style guide.",Ruby,12730,3075,"koic, bbatsov, jonas054, dvandersluis, Drenmi",1
+chatwoot,chatwoot,"Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",Ruby,23312,4223,"pranavrajs, sojan-official, iamsivin, muhsin-k, scmmishra",11
+CocoaPods,CocoaPods,The Cocoa Dependency Manager.,Ruby,14699,2667,"segiddins, fabiopelosin, dnkoutso, alloy, mrackwitz",1
+carrierwaveuploader,carrierwave,"Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks",Ruby,8780,1659,"jnicklas, mshibuya, bensie, trevorturk, thiagofm",0
+omniauth,omniauth,OmniAuth is a flexible authentication system utilizing Rack middleware.,Ruby,7960,983,"sferik, BobbyMcWho, tmilewski, jamesarosen, chrispeterson",0
+openstreetmap,openstreetmap-website,The Rails application that powers OpenStreetMap,Ruby,2351,961,"tomhughes, gravitystorm, AntonKhorev, translatewiki, jfirebaugh",2
+DataDog,dd-trace-rb,Datadog Tracing Ruby Client,Ruby,341,386,"ivoanjo, marcotc, TonyCTHsu, delner, lloeki",0
+alexrudall,ruby-openai,OpenAI API + Ruby! 🤖❤️ Now with Responses API + DeepSeek!,Ruby,3050,359,"alexrudall, dependabot, dependabot-preview, willywg, Haegin",4
+puppetlabs,puppet,Server automation framework and application,Ruby,7579,2201,"joshcooper, hlindberg, puppetlabs-jenkins, lak, thallgren",1
+sinatra,sinatra,Classy web-development dressed in a DSL (official / canonical repo),Ruby,12282,2074,"rkh, rtomayko, jkowens, namusyaka, gnandretta",1
+neondatabase,neon,"Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",Rust,16850,530,"hlinnaka, jcsp, problame, bayandin, koivunej",23
+paritytech,polkadot-sdk,The Parity Polkadot Blockchain SDK,Rust,2217,899,"devops-parity, shawntabrizi, bkchr, ggwpez, svyatonik",2
+TraceMachina,nativelink,"NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Pants, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and support for specialized hardware.",Rust,1316,172,"allada, aaronmondal, renovate, chrisstaite-menlo, MarcusSorealheis",8
+typst,typst,A new markup-based typesetting system that is powerful and easy to learn.,Rust,39414,1077,"laurmaedje, reknih, Leedehai, MDLC01, PgBiel",55
+astral-sh,uv,"An extremely fast Python package and project manager, written in Rust.",Rust,50955,1437,"charliermarsh, zanieb, konstin, renovate, BurntSushi",167
+qdrant,qdrant,"Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",Rust,23159,1587,"dependabot, generall, agourlay, timvisee, coszio",16
+TabbyML,tabby,Self-hosted AI coding assistant,Rust,30874,1452,"wsxiaoys, autofix-ci, icycodes, liangfung, boxbeam",18
+huggingface,text-embeddings-inference,A blazing fast inference solution for text embeddings models,Rust,3460,249,"OlivierDehaene, Narsil, alvarobartt, kozistr, kaixuanliu",4
+rolldown,rolldown,Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.,Rust,10828,574,"hyf0, IWANABETHATGUY, underfin, renovate, shulaoda",25
+atuinsh,atuin,✨ Magical shell history,Rust,23462,635,"ellie, dependabot, conradludgate, akinomyoga, arcuru",121
+apache,datafusion,Apache DataFusion SQL Query Engine,Rust,7065,1454,"alamb, andygrove, kou, wesm, kszucs",4
+PyO3,maturin,"Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages",Rust,4468,308,"messense, konstin, dependabot, bors, pre-commit-ci",10
+lapce,lapce,Lightning-fast and Powerful Code Editor written in Rust,Rust,35169,1075,"dzhou121, panekj, bugadani, dependabot, MinusGix",17
+rustdesk,rustdesk,"An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",Rust,87232,12345,"rustdesk, fufesou, 21pages, Kingtous, Heap-Hop",50
+GitoxideLabs,gitoxide,"An idiomatic, lean, fast & safe pure Rust implementation of Git",Rust,9698,340,"Byron, EliahKagan, edward-shen, svetli-n, SidneyDouw",5
+oxc-project,oxc,⚓ A collection of JavaScript tools written in Rust.,Rust,14250,553,"Boshen, overlookmotel, Dunqing, camc314, DonIsaac",19
+jj-vcs,jj,A Git-compatible VCS that is both simple and powerful,Rust,12408,454,"yuja, martinvonz, dependabot, ilyagr, thoughtpolice",22
+vectordotdev,vector,A high-performance observability data pipeline.,Rust,19219,1725,"dependabot, jszwedko, binarylogic, bruceg, pront",11
+prefix-dev,pixi,Package management made easy,Rust,4272,269,"ruben-arts, github-actions, baszalmstra, Hofer-Julian, tdejager",14
+pradyunsg,furo,A clean customizable documentation theme for Sphinx,Sass,3037,337,"pradyunsg, pre-commit-ci, dependabot, AA-Turner, jdknight",0
+heroku,boomerang,Boomerang is a JavaScript widget that gives users a way back to Heroku from Addon provider sites.,Sass,23,9,"zeke, mattreduce, bjeanes, glenngillen, cdwort",0
+apache,incubator-gluten,Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.,Scala,1324,479,"zhztheplayer, GlutenPerfBot, PHILO-HE, baibaichen, marin-ma",1
+OpenXiangShan,XiangShan,Open-source high-performance RISC-V processor,Scala,6318,760,"poemonsense, AugustusWillisWang, Lingrui98, ljwljwljwljw, Lemover",9
+delta-io,delta,"An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",Scala,7964,1815,"scottsand-db, vkorukanti, allisonport-db, zsxwing, tdas",3
+playframework,playframework,The Community Maintained High Velocity Web Framework For Java and Scala.,Scala,12564,4098,"mkurz, jroper, mergify, scala-steward, marcospereira",0
+apache,spark,Apache Spark - A unified analytics engine for large-scale data processing,Scala,40985,28508,"HyukjinKwon, dongjoon-hyun, mateiz, rxin, zhengruifeng",10
+delta-io,delta-sharing,An open protocol for secure data sharing,Scala,826,192,"linzhou-db, zsxwing, chakankardb, pranavsuku-db, PatrickJin-db",0
+scala,scala3,"The Scala 3 compiler, also known as Dotty.",Scala,5995,1093,"odersky, nicolasstucki, smarter, liufengyun, DarkDimius",1
+awslabs,deequ,"Deequ is a library built on top of Apache Spark for defining ""unit tests for data"", which measure data quality in large datasets.",Scala,3407,551,"sscdotopen, rdsharma26, tdhd, eycho-am, twollnik",1
+TheHive-Project,TheHive,"TheHive: a Scalable, Open Source and Free Security Incident Response Platform",Scala,3629,647,"To-om, nadouani, BillOTei, rriclet, saadkadhi",4
+twitter,the-algorithm,Source code for Twitter's Recommendation Algorithm,Scala,63117,12163,"dzhao, pouriya, anqueue",4
+lichess-org,lila,"♞ lichess.org: the forever free, adless and open source chess server ♞",Scala,16546,2386,"ornicar, niklasf, schlawg, benediktwerner, lenguyenthanh",9
+scalameta,metals,Scala language server with rich IDE features 🚀,Scala,2183,370,"tgodzik, olafurpg, ckipp01, gabro, scalameta-bot",0
+scala,scala,Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3,Scala,14375,3112,"paulp, lrytz, retronym, adriaanm, odersky",0
+neo4j,neo4j-spark-connector,"Neo4j Connector for Apache Spark, which provides bi-directional read/write access to Neo4j from Spark, using the Spark DataSource APIs",Scala,312,116,"conker84, dependabot, jexp, fbiville, utnaf",0
+typelevel,cats-effect,The pure asynchronous runtime for Scala,Scala,2117,549,"djspiewak, armanbilge, vasilmkd, TimWSpence, SystemFw",0
+sbt,sbt,"sbt, the interactive build tool",Scala,4830,950,"eed3si9n, harrah, eatkins, dwijnand, jsuereth",0
+chipsalliance,rocket-chip,Rocket Chip Generator,Scala,3416,1160,"terpstra, aswaterman, hcook, zhemao, mwachs5",3
+rtyley,bfg-repo-cleaner,"Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",Scala,11462,555,"rtyley, javabrett, dwijnand, alecthegeek, kevinji",1
+digital-asset,daml,The Daml smart contract language,Scala,813,205,"cocreature, azure-pipelines, garyverhaegen-da, remyhaemmerle-da, stefanobaghino-da",0
+conventional-commits,conventionalcommits.org,The conventional commits specification,SCSS,7610,583,"damianopetrungaro, dependabot, bcoe, lorenzodianni, blackxored",7
+jekyll,minima,Minima is a one-size-fits-all Jekyll theme for writers.,SCSS,3618,3755,"jekyllbot, ashmaroli, DirtyF, benbalter, ashawley",0
+thingsym,hugo-theme-techdoc,The Techdoc is a Hugo Theme for technical documentation.,SCSS,224,156,"thingsym, deining, coliff, moul, antoniovazquezblanco",0
+keyvanakbary,learning-notes,"Notes on books I read, talks I watch, articles I study, and papers I love",SCSS,5899,1271,"keyvanakbary, Kikobeats, can-z",7
+primefaces,primereact-sass-theme,PrimeReact Theming with SASS,SCSS,39,46,"gucal, habubey, ulasturann, cagataycivici, nitrogenous",0
+oleeskild,digitalgarden,,SCSS,349,186,"uroybd, oleeskild, dependabot, Luke-zhang-04, 1ARdotNO",0
+andrewbanchich,forty-jekyll-theme,"A Jekyll version of the ""Forty"" theme by HTML5 UP.",SCSS,1090,2256,"coezbek, fabacab, daudi, andrewbanchich, daniel-toman",0
+cobiwave,simplefolio,⚡️ A minimal portfolio template for Developers,SCSS,13698,5861,"cobiwave, jacobo-martinez, SNasser97, multidimensionalinteractive, gjaiswal108",3
+nostalgic-css,NES.css,NES-style CSS Framework | ファミコン風CSSフレームワーク,SCSS,21050,1668,"BcRikko, guastallaigor, trezy, abdallahalsamman, amity",5
+odoo,design-themes,,SCSS,138,266,"Brieuc-brd, C3POdoo, qsm-odoo, chgo-odoo, xlu-odoo",0
+vinceliuice,Colloid-gtk-theme,Colloid gtk theme for linux,SCSS,1163,85,"vinceliuice, nclslbrn, tsbarnes, shadow-absorber, amogusussy",3
+mldangelo,personal-site,"My personal website - built with React, React-Router, React-Snap for Static-Export, and GitHub Pages.",SCSS,1469,939,"mldangelo, dependabot, greenkeeper, typpo, notrueblood",1
+eduardoboucas,include-media,"📐 Simple, elegant and maintainable media queries in Sass",SCSS,2581,191,"eduardoboucas, KittyGiraudel, jackmcpickle, mabar, dependabot",0
+just-the-docs,just-the-docs,"A modern, high customizable, responsive Jekyll theme for documentation with built-in search.",SCSS,8139,3749,"pmarsceill, mattxwang, SgtSilvio, pdmosses, dependabot",3
+zhang-wangz,LeetCodeRating,一款对应力扣的浏览器油猴插件| TamperMonkey | Chrome,SCSS,989,31,"github-actions, zhang-wangz, huxulm, quzard, Chalkydoge",2
+nordtheme,nord,"An arctic, north-bluish color palette.",SCSS,6440,177,"arcticicestudio, svengreb, marcobiedermann, filipekiss, ytang",6
+LeelaChessZero,lczero.org,A website (will be lczero.org),SCSS,42,342,"mooskagh, borg323, Naphthalin, rooklift, MelleKoning",0
+nvm-sh,nvm,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions,Shell,84117,8693,"ljharb, PeterDaveHello, creationix, koenpunt, lukechilds",29
+bioconda,bioconda-recipes,Conda recipes for the bioconda channel.,Shell,1723,3458,"BiocondaBot, bgruening, mencian, druvus, johanneskoester",0
+youngyangyang04,leetcode-master,《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀,Shell,55660,11963,"youngyangyang04, fwqaaq, xiaofei-2020, juguagua, jianghongcheng",29
+rbenv,rbenv,Manage your app's Ruby environment,Shell,16340,1409,"mislav, sstephenson, josh, hsbt, jasonkarns",1
+conda-forge,miniforge,A conda-forge distribution.,Shell,7463,395,"hmaarrfk, isuruf, hadim, xhochy, dependabot",8
+getsentry,self-hosted,"Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",Shell,8390,1844,"BYK, hubertdeng123, chadwhitacre, getsentry-bot, mattrobenolt",5
+bats-core,bats-core,Bash Automated Testing System,Shell,5254,429,"martin-schulze-vireso, sstephenson, mbland, sublimino, dependabot",6
+npryce,adr-tools,Command-line tools for working with Architecture Decision Records,Shell,4863,599,"npryce, sephlietz, sadraskol, koppor, jabley",3
+RPi-Distro,pi-gen,Tool used to create the official Raspberry Pi OS images,Shell,2850,1708,"XECDesign, samtygier, hhromic, stefanb2, knghtbrd",3
+appleboy,ssh-action,GitHub Actions for executing remote ssh commands.,Shell,5258,615,"appleboy, kyle-leonhard, seeekr, gnawhleinad, akleandrov",4
+acmesh-official,acme.sh,A pure Unix shell script implementing ACME client protocol,Shell,42304,5222,"Neilpang, dkerr64, NerLOR, medmunds, stilez",17
+adi1090x,rofi,"A huge collection of Rofi based custom Applets, Launchers & Powermenus.",Shell,7288,346,"adi1090x, GroosL, scollado, fishyfishfish55, braveatnight",6
+tfutils,tfenv,Terraform version manager,Shell,4664,464,"Zordrak, kamatama41, iamhsa, OJFord, dooreelko",2
+dockur,windows,Windows inside a Docker container.,Shell,34326,2456,"kroese, renovate, hellodword, star3am, luisgmuniz",19
+bitnami,containers,Bitnami container images,Shell,3762,5416,"bitnami-bot, tompizmor, fmulero, miguelaeh, carrodher",6
+Installomator,Installomator,Installation script to deploy standard software on Macs,Shell,1202,510,"scriptingosx, Theile, acodega, BigMacAdmin, bartreardon",1
+angristan,wireguard-install,WireGuard VPN installer for Linux servers,Shell,9155,1439,"angristan, dependabot, lucawen, xlv, robiiinos",9
+asdf-vm,asdf-ruby,Ruby plugin for asdf version manager,Shell,692,137,"Stratus3D, HashNuke, fazibear, samford, SeanSith",0
+ellisk42,ec,,Slash,508,145,"ellisk42, mathias-sm, mtensor, lorepozo, lio-wong",0
+AhMyth,AhMyth-Android-RAT,Android Remote Administration Tool,Smali,4747,1746,"AhMyth, zlocate, stypr, Augustin-FL, evaleries",0
+bitnami,charts,Bitnami Helm Charts,Smarty,9519,9469,"javsalgar, juan131, migruiz4, fmulero, bitnami-bot",4
+grafana,helm-charts,,Smarty,1770,2322,"zanhsieh, Sheikh-Abubaker, joe-elliott, zalegrala, trevorwhitney",1
+cozystack,cozystack,"Free and Open Source PaaS framework for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service",Smarty,1274,87,"kvaps, klinch0, lllamnyp, themoriarti, kingdonb",15
+grafana,k8s-monitoring-helm,,Smarty,395,126,"petewall, github-actions, skl, dependabot, bentonam",3
+VictoriaMetrics,helm-charts,"Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem",Smarty,396,358,"victoriametrics-bot, f41gh7, AndrewChubatiuk, valyala, tenmozes",1
+truecharts,public,Community Helm Chart Repository,Smarty,1203,627,"truecharts-admin, stavros-k, PrivatePuffin, renovate, xstar97",2
+open-telemetry,opentelemetry-helm-charts,OpenTelemetry Helm Charts,Smarty,444,563,"TylerHelmuth, dmitryax, jaronoff97, puckpuck, Allex1",1
+SonarSource,helm-chart-sonarqube,,Smarty,263,398,"rjkernick, carminevassallo, tobias-trabelsi-sonarsource, jCOTINEAU, davividal",0
+traefik,traefik-helm-chart,Traefik Proxy Helm Chart,Smarty,1161,776,"mloiseleur, renovate, darkweaver87, mmatur, charlie-haley",2
+sidpalas,devops-directive-kubernetes-course,"This is the companion repo for the DevOps Directive ""Kubernetes: Beginner to Pro"" course!",Smarty,1135,452,"sidpalas, accessd",2
+CrowdStrike,falcon-helm,Helm Charts for running CrowdStrike Falcon with Kubernetes,Smarty,83,87,"redhatrises, shawndwells, gpontejos, domdepasquale, isimluk",0
+opensearch-project,helm-charts,☸️ A community repository for Helm Charts of OpenSearch Project.,Smarty,185,247,"peterzhuamazon, prudhvigodithi, TheAlgo, smlx, gaiksaya",0
+cloudnative-pg,charts,CloudNativePG Helm Charts,Smarty,271,131,"itay-grudev, github-actions, renovate, phisco, dependabot",0
+mongodb,helm-charts,,Smarty,108,93,"theburi, igor-karpukhin, rodrigovalin, josvazg, mircea-cosbuc",0
+8gears,n8n-helm-chart,A Kubernetes Helm chart for n8n - a workflow automation tool. Easily automate tasks across different services on self hosted onKubernetes,Smarty,319,137,"Vad1mo, swarnat, dominykasn, Fank, MarkusKepert",1
+open-webui,helm-charts,,Smarty,164,91,"0xThresh, jyje, tjbck, robrakaric, bergutman",0
+nextcloud,helm,A community maintained helm chart for deploying Nextcloud on Kubernetes.,Smarty,391,278,"tvories, provokateurin, jessebot, menardorama, wrenix",0
+cvc5,cvc5,cvc5 is an open-source automatic theorem prover for Satisfiability Modulo Theories (SMT) problems.,SMT,1105,249,"ajreynol, mdeters, aniemetz, 4tXJ7f, timothy-king",1
+adafruit,Adafruit_CAD_Parts,"CAD files for various boards, components and parts",SMT,1137,212,"djecken, DJDevon3, dandelany, ariherzig, fivesixzero",2
+matter-labs,era-contracts,Smart Contract Submodule For zkSync Era,Solidity,506,375,"StanislavBreadless, kelemeno, Raid5594, koloz193, vladbochok",0
+OpenZeppelin,openzeppelin-contracts,OpenZeppelin Contracts is a library for secure smart contract development.,Solidity,25687,12019,"frangio, Amxx, nventuro, ernestognw, maraoz",3
+ethereum,ERCs,The Ethereum Request for Comment repository,Solidity,473,623,"Pandapip1, SamWilsn, MicahZoltu, lightclient, eth-bot",1
+Dapp-Learning-DAO,Dapp-Learning,Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organization.,Solidity,5465,1410,"liberhe, 0x-stan, yanyanho, yingjingyang, dependabot",7
+matter-labs,v2-testnet-contracts,,Solidity,63,33,"vladbochok, StanislavBreadless, benceharomi, otani88, github-actions",0
+circlefin,evm-cctp-contracts,Official repository for all EVM-compatible smart contracts used by the Cross-Chain Transfer Protocol,Solidity,141,77,"walkerq, ams9198, mdbere, grantmike, epoon-circle",0
+Vectorized,solady,Optimized Solidity snippets.,Solidity,2843,390,"Vectorized, atarpara, z0r0z, kadenzipfel, RogerPodacter",3
+transmissions11,solmate,"Modern, opinionated, and gas optimized building blocks for smart contract development.",Solidity,4071,683,"transmissions11, Joeysantoro, z0r0z, brockelmore, Vectorized",0
+dapphub,ds-test,"Assertions, equality checks and other test helpers",Solidity,223,73,"rainbreak, d-xo, tommyrharper, dbrock, brockelmore",0
+dmfxyz,murky,Merkle Proof Generator and Validator in Solidity,Solidity,449,49,"dmfxyz, kootsZhin, emo-eth",1
+0xPolygon,fx-portal,FxPortal for Polygon (Previously Matic) chain. No mapping. Seamless.,Solidity,175,113,"DhairyaSethi, QEDK, jdkanani, reddyismav, Raneet10",1
+wormhole-foundation,wormhole-solidity-sdk,,Solidity,21,25,"derpy-duck, JoeHowarth, nonergodic, AgusVelez5, scnale",0
+Layr-Labs,eigenlayer-contracts,Contracts of EigenLayer,Solidity,673,413,"ChaoticWalrus, Sidu28, gpsanant, wadealexc, 8sunyuan",0
+GoldenCheetah,GoldenCheetah,"Performance Software for Cyclists, Runners, Triathletes and Coaches",Standard ML,1911,454,"liversedge, amtriathlon, grauser, Joern-R, srhea",1
+googleapis,googleapis,Public interface definitions of Google APIs.,Starlark,7853,2393,"googleapis-publisher, pongad, neozwu, michaelbausor",4
+bazel-contrib,rules_python,Bazel Python Rules,Starlark,574,582,"rickeylev, aignas, dependabot, alexeagle, f0rmiga",1
+GoogleContainerTools,distroless,"🥑 Language focused docker images, minus the operating system.",Starlark,20297,1249,"loosebazooka, omBratteng, chanseokoh, dependabot, mattmoor",3
+bazelbuild,bazel-central-registry,The central registry of Bazel modules for the Bzlmod external dependency system.,Starlark,285,437,"publish-to-bcr-bot, alexeagle, meteorcloudy, fmeum, Vertexwahn",0
+tilt-dev,tilt-extensions,Extensions for Tilt,Starlark,215,178,"nicks, milas, maiamcc, landism, bobjackman",0
+google,cel-spec,Common Expression Language -- specification and binary representation,Starlark,3161,246,"JimLarson, TristonianJones, jcking, eobrain, l46kok",3
+aspect-build,rules_lint,Run static analysis tools with Bazel,Starlark,104,62,"alexeagle, github-actions, gregmagolan, jsharpe, mrmeku",0
+jvolkman,rules_pycross,Bazel + Python rules for cross-platform external dependencies,Starlark,71,30,"jvolkman, betaboon, ewianda, njlr, plobsing",0
+cncf,xds,xDS API Working Group,Starlark,226,75,"sergiitk, mmorel-35, kyessenov, keith, markdroth",0
+bazelbuild,rules_proto,Protocol buffer rules for Bazel,Starlark,173,70,"comius, Yannic, thesayyn, alexeagle",0
+tidbyt,community,A publishing platform for apps developed by the Tidbyt community 🚀,Starlark,407,728,"betterengineering, M0ntyP, matslina, rjison, rohansingh",0
+aspect-build,rules_js,High-performance Bazel rules for running Node.js tools and building JavaScript projects,Starlark,332,115,"gregmagolan, jbedard, alexeagle, renovate, kormide",2
+openconfig,gnoi,gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.,Starlark,171,74,"robshakir, Raj998, marcushines, samribeiro, ejbrever",0
+googleapis,api-common-protos,A standard library for use in specifying protocol buffer APIs.,Starlark,260,64,"ethanbao, googleapis-publisher, lukesneeringer, software-dov",0
+ethpandaops,ethereum-package,"A Kurtosis package that deploys a private, portable, and modular Ethereum devnet",Starlark,328,217,"h4ck3rk3y, barnabasbusa, pk910, parithosh, skylenet",0
+grpc,grpc-proto,"gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.",Starlark,276,107,"zpencer, ejona86, carl-mastrangelo, markdroth, cdmetcalf",0
+bazelbuild,examples,Examples for Bazel,Starlark,875,534,"renovate-bot, kchodorow, alexeagle, c-parsons, hanwen",0
+theoremlp,rules_uv,Bazel rules for running uv,Starlark,58,23,"thm-automation, mark-thm, renovate-thm, alexeagle, hofbi",1
+rcore-os,blog,rcore-os Developer Blog,Stylus,45,461,"ZhiyuanSue, wyfcyx, hky1999, limingth, shzhxh",0
+theme-next,hexo-theme-next,Elegant and powerful theme for Hexo.,Stylus,8215,2046,"ivan-nginx, stevenjoezhang, 1v9, wafer-li, tsanie",1
+anzhiyu-c,hexo-theme-anzhiyu,安知鱼主题，这是一个简洁美丽的hexo主题。,Stylus,1962,301,"anzhiyu-c, Joker2Yue, junpengzhou, nixgnauhcuy, CCKNBC",1
+huntabyte,shadcn-svelte,"shadcn/ui, but for Svelte. ✨",Svelte,6461,391,"huntabyte, AdrianGonz97, github-actions, shyakadavis, HubbeDev",5
+seanmorley15,AdventureLog,Self-hostable travel tracker and trip planner.,Svelte,1102,56,"seanmorley15, dymek37, dependabot, larsl-net, Thiesjoo",4
+vkurko,calendar,Full-sized drag & drop JavaScript event calendar with resource & timeline views,Svelte,1662,145,"vkurko, mweimerskirch, jakeorr, mrvnklm, ademaro",3
+rajnandan1,kener,"Stunning status pages, batteries included!",Svelte,3708,173,"rajnandan1, kaffolder7, otherwiseGG, cosmic-jellyfish",3
+sveltejs,svelte.dev,The Svelte omnisite,Svelte,165,145,"Rich-Harris, github-actions, dummdidumm, svelte-docs-bot, benmccann",0
+zerebos,ghostty-config,A beautiful config generator for Ghostty terminal.,Svelte,1120,21,"zerebos, phillip-hirsch, hartzell, mefengl",4
+matt8707,ha-fusion,"A modern, easy-to-use and performant custom Home Assistant dashboard",Svelte,2602,135,"matt8707, carsten-walther, EvanBarbour3, xrolfex, anarion80",3
+classroomio,classroomio,"The Open Source Education Platform. A Simple and Beautiful Alternative to Moodle LMS, EdX, Thinkific and Teachable",Svelte,875,165,"rotimi-best, Chifez, tunny17, digdippa, codiini",0
+themesberg,flowbite-svelte,Official Svelte components built for Flowbite and Tailwind CSS,Svelte,2453,292,"shinokada, jjagielka, zoltanszogyenyi, orefalo, RyanZhiNie",1
+imputnet,cobalt,best way to save what you love,Svelte,31128,2597,"wukko, dumbmoron, Snazzah, lexito-o, hyperdefined",42
+dbgate,dbgate,"Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application",Svelte,5980,351,"janproch, Nybkox, ProjectInfinity, dependabot, Bare7a",5
+drips-network,app,💧 Funding that flows — Drips Frontend,Svelte,42,19,"efstajas, evvvritt, jtourkos, dependabot, mhgbrown",0
+ChurchApps,FreeShow,"FreeShow is a free and open-source, user-friendly presenter software.",Svelte,704,125,"vassbo, jzongker, lubomsky, eeickmeyer, DAcodedBEAT",1
+tandpfun,skill-icons,Showcase your skills on your Github readme or resumé with ease ✨,SVG,9047,1267,"tandpfun, ThatOneCalculator, LelouchFR, danielcshn, Muh-Hamza-99",10
+n3r4zzurr0,svg-spinners,A collection of 24 x 24 dp SVG spinners! (CSS & SMIL),SVG,6495,841,"n3r4zzurr0, claviering, ephraimduncan",0
+groue,GRDB.swift,"A toolkit for SQLite databases, with a focus on application development",Swift,7374,744,"groue, pakko972, swiftlyfalling, sobri909, mallman",5
+pointfreeco,swift-composable-architecture,"A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",Swift,13151,1511,"stephencelis, mbrandonw, tgrapperon, iampatbrown, Jager-yoo",8
+airbnb,lottie-ios,An iOS library to natively render After Effects vector animations,Swift,26184,3785,"buba447, calda, thedrick, Coeur, marcelofabri",7
+onevcat,Kingfisher,"A lightweight, pure-Swift library for downloading and caching images from the web.",Swift,23800,2694,"onevcat, lixiang1994, dstranz, xspyhack, wangshuaiguo",4
+nikitabobko,AeroSpace,AeroSpace is an i3-like tiling window manager for macOS,Swift,11707,230,"nikitabobko, jakenvac, Henkru, rickyz, bashor",19
+mapbox,mapbox-maps-ios,"Interactive, thoroughly customizable maps for iOS powered by vector tiles and Metal",Swift,519,173,"evil159, OdNairy, macdrevx, persidskiy, maios",0
+apple,swift-collections,Commonly used data structures for Swift,Swift,3990,327,"lorentey, msteindorfer, vanvoorden, shahmishal, compnerd",2
+facebook,facebook-ios-sdk,Used to integrate the Facebook Platform with your iOS & tvOS apps.,Swift,7867,3603,"joesus, jawwad, samodom, KylinChang, tianqibt",0
+Whisky-App,Whisky,A modern Wine wrapper for macOS built with SwiftUI,Swift,14412,355,"IsaacMarovitz, ohaiibuzzle, Mika412, cuba, alexsch01",28
+getsentry,sentry-cocoa,"The official Sentry SDK for iOS, tvOS, macOS, watchOS.",Swift,886,346,"philipphofmann, HazAT, brustolin, armcknight, getsentry-bot",2
+pointfreeco,swift-dependencies,"A dependency management library inspired by SwiftUI's ""environment.""",Swift,1814,147,"mbrandonw, stephencelis, finestructure, oronbz, tgrapperon",2
+Alamofire,Alamofire,Elegant HTTP Networking in Swift,Swift,41860,7609,"cnoon, jshier, mattt, kylef, kcharwood",6
+apple,swift-nio,"Event-driven network application framework for high performance protocol servers & clients, non-blocking.",Swift,8109,663,"weissi, Lukasa, normanmaurer, glbrntt, FranzBusch",1
+apollographql,apollo-ios,"📱  A strongly-typed, caching GraphQL client for iOS, written in Swift.",Swift,3942,746,"designatednerd, martijnwalraven, renovate-bot, calvincestari, AnthonyMDev",2
+pointfreeco,swift-snapshot-testing,📸 Delightful Swift snapshot testing.,Swift,3912,605,"stephencelis, mbrandonw, valeriyvan, Sherlouk, finestructure",0
+CodeEditApp,CodeEdit,"📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",Swift,21639,1066,"lukepistrol, austincondiff, 0xWDG, pkasila, nanashili",5
+AzureAD,microsoft-authentication-library-for-objc,Microsoft Authentication Library (MSAL) for iOS and macOS,Swift,288,145,"oldalton, rohitnarula7176, unpluggedk, antrix1989, ameyapat",0
+realm,SwiftLint,A tool to enforce Swift style and conventions.,Swift,18941,2246,"jpsim, marcelofabri, norio-nomura, SimplyDanny, scottrhoyt",0
+gonzalezreal,swift-markdown-ui,Display and customize Markdown text in SwiftUI,Swift,3115,399,"gonzalezreal, MojtabaHs, kirkbig, mikelikespie, tapsandswipes",5
+ChartsOrg,Charts,Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.,Swift,27831,6029,"danielgindi, pmairoldi, liuxuan30, jjatie, mathewa6",2
+lucaszischka,BottomSheet,A sliding Sheet from the bottom of the Screen with 3 States build with SwiftUI.,Swift,1130,150,"lucaszischka, juhieta, spnkr, matthiaskmt, Feuerwerk",0
+ReactiveX,RxSwift,Reactive Programming in Swift,Swift,24549,4181,"kzaher, freak4pc, sergdort, yury, carlosypunto",1
+RevenueCat,purchases-ios,"In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.",Swift,2580,349,"NachoSoto, aboedo, jeiting, vegaro, RCGitBot",3
+tpaviot,pythonocc-core,Python package for 3D geometry CAD/BIM/CAM,SWIG,1539,385,"tpaviot, jf---, rainman110, rsm-gh, thorade",3
+lowRISC,ibex,"Ibex is a small 32 bit RISC-V CPU core, previously known as zero-riscy.",SystemVerilog,1517,597,"GregAC, rswarbrick, Atokulus, vogelpi, atraber",1
+pulp-platform,axi,AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication,SystemVerilog,1257,288,"andreaskurth, thommythomaso, micprog, suehtamacv, zarubaf",0
+openhwgroup,cvw,"CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",SystemVerilog,357,278,"davidharrishmc, rosethompson, jordancarlin, BBracker, kparry4",5
+pulp-platform,common_cells,Common SystemVerilog components,SystemVerilog,606,161,"zarubaf, andreaskurth, niwis, stmach, FrancescoConti",0
+lowRISC,opentitan,OpenTitan: Open source silicon root of trust,SystemVerilog,2785,837,"rswarbrick, msfschaffner, cindychip, timothytrippel, vogelpi",1
+pulp-platform,riscv-dbg,RISC-V Debug Support for our PULP RISC-V Cores,SystemVerilog,247,83,"bluewww, zarubaf, msfschaffner, andreaskurth, Silabs-ArjanB",0
+openhwgroup,cvfpu,Parametric floating-point unit with support for standard RISC-V formats and operations as well as transprecision formats.,SystemVerilog,480,129,"michael-platzer, zarubaf, lucabertaccini, davideschiavone, stmach",0
+Xilinx,Vivado-Design-Tutorials,,Tcl,198,75,"DavidDye, ryanvergel, bgeorge-to, lavanyadalal",0
+Digilent,digilent-xdc,A collection of Master XDC files for Digilent FPGA and Zynq boards.,Tcl,572,578,"artvvb, sbobrowicz, PhantomMachine, elodg, bg2d",0
+rdbende,Sun-Valley-ttk-theme,"A gorgeous theme for Tkinter/ttk, based on the Sun Valley visual style ✨",Tcl,2202,120,"rdbende, Akuli, sumeshir26, lyraik, littlewhitecloud",2
+soulmachine,machine-learning-cheat-sheet,Classical equations and diagrams in machine learning,TeX,7669,1289,"soulmachine, flytomylife, arun-prathap, ilivans, kv-gh",30
+HarisIqbal88,PlotNeuralNet,Latex code for making neural networks diagrams,TeX,23222,2959,"HarisIqbal88, pedrodiamel, weslynn, mbrukman, Brandon-HY-Lin",13
+posquit0,Awesome-CV,📄 Awesome CV is LaTeX template for your outstanding job application,TeX,24250,4932,"posquit0, nitrogl, OJFord, dependabot, johannesbottcher",7
+sysprog21,lkmpg,The Linux Kernel Module Programming Guide (updated for 5.0+ kernels),TeX,7909,559,"jserv, linD026, fennecJ, EricccTaiwan, mechanicalamit",2
+rstudio,cheatsheets,Posit Cheat Sheets - Can also be found at https://posit.co/resources/cheatsheets/.,TeX,6030,1870,"garrettgman, averiperny, mine-cetinkaya-rundel, ateucher, brendanjodowd",1
+riscv,riscv-isa-manual,RISC-V Instruction Set Manual,TeX,4026,700,"wmat, aswaterman, kasanovic, kersten1, jhauser-us",2
+dart-lang,language,Design of the Dart language,TeX,2750,212,"munificent, eernstg, lrhn, leafpetersen, jakemac53",1
+harvard-edge,cs249r_book,Introduction to Machine Learning Systems,TeX,1734,208,"profvjreddi, github-actions, jasonjabbour, hzeljko, uchendui",5
+lib-pku,libpku,贵校课程资料民间整理,TeX,30590,8244,"librarian-pku, littlesulley, SyzygyYuan, colizz, brenner8023",3
+chaofengc,Awesome-Image-Quality-Assessment,A comprehensive collection of IQA papers,TeX,1181,74,"chaofengc, LorenzoAgnolucci, Mer9ury, nhshin-mcl, chencn2020",3
+exacity,deeplearningbook-chinese,Deep Learning Book Chinese Translation,TeX,36346,9141,"SwordYork, liber145, futianfan, KevinLee1110, zhoupeng",4
+vdumoulin,conv_arithmetic,A technical report on convolution arithmetic in the context of deep learning,TeX,14306,2290,"vdumoulin, fvisin",0
+terryum,awesome-deep-learning-papers,The most cited deep learning papers,TeX,25815,4469,"terryum, miguelballesteros, ricoz, sunshinemyson, flukeskywalker",2
+BITNP,BIThesis,📖 北京理工大学非官方 LaTeX 模板集合，包含本科、研究生毕业设计模板及更多。🎉 （更多文档请访问 wiki 和 release 中的手册）,TeX,828,106,"fky2015, YDX-2147483647, spencerwooo, Lancern, Silverster98",1
+matze,mtheme,A modern LaTeX Beamer theme,TeX,6540,850,"matze, rchurchley, benjamin-weiss, tmgriffiths, awalterschulze",0
+hagezi,dns-blocklists,DNS-Blocklists: For a better internet - keep the internet clean!,Text,10735,340,"hagezi, vhpcdpgl, xRuffKez, olivertzeng, celenityy",24
+apache,parquet-format,Apache Parquet Format,Thrift,1933,439,"nongli, julienledem, rdblue, aniket486, isnotinvain",3
+nvim-treesitter,nvim-treesitter,Nvim Treesitter configurations and abstraction layer,Tree-sitter Query,11781,966,"web-flow, theHamsta, nvim-treesitter-bot, clason, amaanq",10
+nvim-treesitter,nvim-treesitter-textobjects,,Tree-sitter Query,2360,212,"theHamsta, kiyoon, stsewd, ribru17, AckslD",3
+cisagov,cset,Cybersecurity Evaluation Tool,TSQL,1551,274,"randywoods, Marcus-Goectau, jekuipers, inlguy, mattrwins",2
+microsoft,fhir-server,A service that implements the FHIR standard,TSQL,1258,532,"dependabot, brendankowitz, LTA-Thinking, MicrosoftHealthService, SergeyGaluzo",0
+amachanic,sp_whoisactive,sp_whoisactive,TSQL,1228,295,"mfuller333, amachanic, erikdarlingdata, ktaranov, aharpervc",1
+govCMS,GovCMS,"Current Drupal release of the main GovCMS distribution, with releases mirrored at https://www.drupal.org/project/govcms",Twig,158,45,"pandaskii, ruwanl, dependabot, drupal-spider, Tara-Wij",0
+SallaApp,theme-raed,A wide range of features to support your business...,Twig,35,82,"ashrafreda, jalmatari, adelelshafey, salkhwlani, Ahmed-S-Abduallah",0
+hydralauncher,hydra,Hydra is a game launcher with its own embedded bittorrent client,TypeScript,12487,3521,"zamitto, thegrannychaseroperation, hydralauncher, Hachi-R, fzanutto",112
+kamranahmedse,developer-roadmap,"Interactive roadmaps, guides and other educational content to help developers grow in their careers.",TypeScript,315258,40951,"kamranahmedse, dansholds, arikchakma, github-actions",337
+exa-labs,exa-mcp-server,Claude can perform Web Search | Exa with MCP (Model Context Protocol),TypeScript,879,71,"theishangoswami, calclavia, Feel-ix-343, jeffzwang, punkpeye",103
+gridstack,gridstack.js,Build interactive dashboards in minutes.,TypeScript,7820,1349,"adumesny, troolee, radiolips, dependabot, kdietrich",24
+dataelement,bisheng,"BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more.",TypeScript,8175,1362,"zgqgit, yaojin3616, dolphin0618, imkratos, gulixin0922",55
+angular,angular,Deliver web apps with confidence 🚀,TypeScript,97578,26138,"gkalpak, petebacondarwin, devversion, crisbeto, atscott",34
+vernu,textbee,textbee.dev is an opensource and free sms-gatway for sending SMS messages through API or dashboard web interface.,TypeScript,1415,153,"vernu, markoilijoski, mms-gianni, eltociear, dependabot",29
+browserbase,mcp-server-browserbase,Allow LLMs to control a browser with Browserbase and Stagehand,TypeScript,1197,120,"filip-michalsky, alexdphan, tkattkat, sameelarif, kamath",196
+ItzCrazyKns,Perplexica,Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI,TypeScript,21454,2180,"ItzCrazyKns, WanQuanXie, OmarElKadri, sjiampojamarn, aiyogg",21
+tldraw,tldraw,whiteboard SDK / infinite canvas SDK,TypeScript,39757,2491,"steveruizok, ds300, MitjaBezensek, mimecuvalo, SomeHats",34
+menloresearch,jan,Jan is an open source alternative to ChatGPT that runs 100% offline on your computer,TypeScript,28607,1691,"louis-menlo, urmauur, 0xHieu01, jan-service-account, hiento09",25
+Azure,azure-rest-api-specs,The source for REST API specifications for Microsoft Azure.,TypeSpec,2811,5292,"nschonni, msyyc, mikeharder, amarzavery, lmazuel",0
+Azure,autorest,"OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python",TypeSpec,4721,740,"fearthecowboy, stankovski, amarzavery, timotheeguerin, jianghaolu",0
+touying-typ,touying,Touying is a powerful package for creating presentation slides in Typst.,Typst,1266,32,"OrangeX4, enklht, dependabot, wznmickey, YDX-2147483647",4
+cetz-package,cetz,CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.,Typst,1187,50,"johannes-wolf, fenjalien, RubixDev, rikhuijzer, jamesrswift",2
+vlang,v,"Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io",V,36275,2184,"spytheman, medvednikov, yuyi98, felipensp, joe-conigliaro",7
+vlang,v-analyzer,"The @vlang language server, for all your editing needs like go-to-definition, code completion, type hints, and more.",V,154,21,"i582, ttytm, spytheman, Lycs-D, felipensp",0
+frida,frida-core,Frida core library intended for static linking into bindings,Vala,655,220,"oleavr, hsorbo, s1341, mrmacete, WorksButNotTested",0
+pyenv-win,pyenv-win,"pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It's simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well.",VBScript,5879,503,"kirankotari, Darsstar, dedale, LanetheGreat, brandonaut",6
+abbodi1406,vcredist,AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes,VBScript,6430,359,"abbodi1406, nkh0472",8
+LegendsUnchained,vpx-standalone-alp4k,Settings and configs for VPX Standalone on the AtGames ALP 4K Pinball,VBScript,40,102,"lilalien, TheOminousOsie, Bla1ze, n-i-x, BorisUndead",0
+alexforencich,verilog-ethernet,Verilog Ethernet components for FPGA implementation,Verilog,2520,751,"alexforencich, lomotos10",4
+The-OpenROAD-Project,OpenROAD,OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/,Verilog,1888,636,"maliberty, eder-matheus, jjcherry56, gadfort, osamahammad21",2
+YosysHQ,picorv32,PicoRV32 - A Size-Optimized RISC-V CPU,Verilog,3435,815,"cliffordwolf, wallclimber21, olofk, thoughtpolice, ldoolitt",4
+EttusResearch,uhd,The USRP™ Hardware Driver Repository,Verilog,1072,687,"guruofquality, mbr0wn, wordimont, michael-west, ncorgan",0
+vortexgpgpu,vortex,,Verilog,1484,316,"tinebp, jaewon-lee-github, SantoshSrivatsan24, Udit8348, MalikBurton",3
+The-OpenROAD-Project,OpenROAD-flow-scripts,OpenROAD's scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/,Verilog,408,334,"maliberty, vvbandeira, oharboe, eder-matheus, ravi-varadarajan",0
+analogdevicesinc,hdl,HDL libraries and projects,Verilog,1628,1558,"rkutty, acostina, ronagyl, larsclausen, AndreiGrozav",2
+corundum,corundum,Open source FPGA-based NIC and platform for in-network compute,Verilog,1859,445,"alexforencich, joft-mle, Basseuph, andreasbraun90, minseongg",0
+lnis-uofu,OpenFPGA,An Open-source FPGA IP Generator,Verilog,900,170,"tangxifan, github-actions, ganeshgore, dependabot, BaudouinChauviere",0
+olofk,serv,SERV - The SErial RISC-V CPU,Verilog,1563,215,"olofk, trabucayre, Abdulwadoodd, wallento, Martoni",1
+OSVVM,OSVVM,"OSVVM Utility Library: AlertLogPkg, CoveragePkg, RandomPkg, ScoreboardGenericPkg, MemoryPkg, TbUtilPkg, TranscriptPkg, ...",VHDL,238,65,"JimLewis, klangthomas, riedel-ferringer, kraigher, diedricm",0
+Digital-EDA,Digital-IDE,All in one vscode plugin for HDL development,VHDL,714,61,"LSTM-Kirigaya, Nitcloud, zznjupt, AIRmisuzu, light-ly",5
+ghdl,ghdl,VHDL 2008/93/87 simulator,VHDL,2543,381,"tgingold, Paebbels, umarcor, gingold-adacore, eine",0
+UVVM,UVVM,UVVM (Universal VHDL Verification Methodology) is a free and Open Source Methodology and Library for very efficient VHDL verification of FPGA and ASIC – resulting also in significant quality improvement. Community forum: https://forum.uvvm.org/ UVVM.org: https://uvvm.org/,VHDL,397,100,"Bitvis, mariuselv, UVVM, jorgenkrohn, HDLUtils",0
+aws,aws-fpga,Official repository of the AWS EC2 FPGA Hardware and Software Development Kit,VHDL,1560,521,"kristopk, deeppat, AWSGH, kyyalama2, AWSwinefred",0
+github,copilot.vim,Neovim plugin for GitHub Copilot,Vim Script,9773,418,"tpope, djensenius",7
+jbranchaud,til,📝 Today I Learned,Vim Script,13749,759,"jbranchaud, thesoftwarephilosopher, tumdum, mcrapet, patrickdavey",4
+vimwiki,vimwiki,Personal Wiki for Vim,Vim Script,9038,633,"EinfachToll, tinmarino, ranebrown, Nudin, habamax",3
+voldikss,vim-floaterm,💻 Terminal manager for (neo)vim,Vim Script,2563,84,"voldikss, delphinus, vn-ki, benwoodward, kazhala",0
+augmentcode,augment.vim,AI-augmented development in Vim and Neovim,Vim Script,359,14,"github-actions, mtpauly",10
+amix,vimrc,The ultimate Vim configuration (vimrc),Vim Script,31191,7308,"amix, dependabot, andradei, daniilguit, sota1235",3
+neovim,neovim,Vim-fork focused on extensibility and usability,Vim Script,88887,6045,"zeertzjq, justinmk, janlazo, bfredl, ZyX-I",41
+airblade,vim-rooter,Changes Vim working directory to project root.,Vim Script,1253,73,"airblade, jameslai, teranex, intelfx, rdnetto",0
+preservim,tagbar,"Vim plugin that displays tags in a window, ordered by scope",Vim Script,6179,486,"majutsushi, raven42, alerque, jpmv27, jrc2139",0
+ludovicchabant,vim-gutentags,A Vim plugin that manages your tag files,Vim Script,2318,175,"ludovicchabant, Coacher, yous, markwu, blueyed",0
+sainnhe,gruvbox-material,Gruvbox with Material Palette,Vim Script,2190,172,"sainnhe, antoineco, zxYin, xpac27, rsaihe",2
+tpope,vim-endwise,endwise.vim: Wisely add,Vim Script,1140,103,"tpope, Synray, blueyed, danieljaouen, richsoni",0
+mattn,vim-lsp-settings,Auto configurations for Language Server for vim-lsp,Vim Script,1341,240,"mattn, tsukkee, prabirshrestha, heavenshell, johejo",2
+fatih,vim-go,Go development plugin for Vim,Vim Script,16115,1436,"bhcleek, fatih, arp242, mattn, delphinus",2
+Exafunction,windsurf.vim,"Free, ultrafast Copilot alternative for Vim and Neovim",Vim Script,4817,182,"fortenforge, pqn, sullivan-sean, njiang747, saranshsaini",7
+machakann,vim-highlightedyank,Make the yanked region apparent!,Vim Script,858,23,"machakann, thalesmello, lilydjwg, sunaku, drewdeponte",1
+editorconfig,editorconfig-vim,EditorConfig plugin for Vim,Vim Script,3154,141,"xuhdev, treyhunner, cxw42, mmrwoods, k-takata",1
+rafi,awesome-vim-colorschemes,"Collection of awesome color schemes for Neo/vim, merged for quick use.",Vim Script,2813,185,"rafi, kyoz, Badacadabra, dikiaap, cocopon",2
+jlanzarotta,bufexplorer,BufExplorer Plugin for Vim,Vim Script,526,99,"drmikehenry, jlanzarotta, igor-prusov, jsvisa, mgedmin",0
+liuchengxu,vim-which-key,🌷 Vim plugin that shows keybindings in popup,Vim Script,1953,64,"liuchengxu, rene-descartes2021, BrotifyPacha, aelkazdadi, brglng",0
+VBA-tools,VBA-JSON,JSON conversion and parsing for VBA,Visual Basic,1933,601,"timhall, blindlf, theredstapler, PGS62",2
+OfficeDev,Office-IT-Pro-Deployment-Scripts,A collection of useful PowerShell scripts to make deploying Office 2016 and Office 365 ProPlus easier for IT Pros and administrators. If you have any feature requests or ideas for future scripts please add the idea to the issues list in this repository,Visual Basic,899,842,"rsmith0906, AStigall, alex182, johnskydiver, alspeirs",0
+VBA-tools,VBA-JSON,JSON conversion and parsing for VBA,Visual Basic,1933,601,"timhall, blindlf, theredstapler, PGS62",2
+OfficeDev,Office-IT-Pro-Deployment-Scripts,A collection of useful PowerShell scripts to make deploying Office 2016 and Office 365 ProPlus easier for IT Pros and administrators. If you have any feature requests or ideas for future scripts please add the idea to the issues list in this repository,Visual Basic,899,842,"rsmith0906, AStigall, alex182, johnskydiver, alspeirs",0
+tannerhelland,PhotoDemon,"A free portable photo editor focused on pro-grade features, high performance, and maximum usability.",Visual Basic 6.0,1640,212,"tannerhelland, audioglider, hosiken, wqweto, epmatsw",3
+unovue,shadcn-vue,Vue port of shadcn-ui,Vue,6963,432,"zernonia, sadeghbarati, mukundshah, Saeid-Za, hrynevychroman",13
+donaldzou,WGDashboard,Simple dashboard for WireGuard VPN written in Python & Vue.js,Vue,2008,303,"donaldzou, DaanSelen, pgalonza, NOXCIS, allcontributors",42
+yudaocode,yudao-ui-admin-vue3,芋道管理后台，基于 Vue3 + Element Plus 实现，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。,Vue,2274,989,"YunaiV, cherishsince, owen118z, xingyuv, cooling-jason",9
+ccbikai,Sink,"⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.",Vue,4228,2560,"ccbikai, MineraleYT, ZL-Asica, QuentinHsu, dr-data",7
+palxiao,poster-design,"迅排设计 - 美观且功能强大的在线海报设计器，图片编辑器，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。A beautiful online image designer, suitable for various scenarios like generate posters, making design easier!",Vue,4174,644,"palxiao, JeremyYu-cn, heimanba, thinkerchan, iHTCboy",3
+laravel,vue-starter-kit,,Vue,340,122,"taylorotwell, tnylea, laserhybiz, oketafred, fftfaisal",0
+frappe,crm,"Fully featured, open source CRM",Vue,1278,401,"shariquerik, pratikb64, frappe-pr-bot, pu-raihan, revant",4
+yangjian102621,geekai,"AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI 绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。",Vue,4202,1026,"yangjian102621, mrchenzifan, lqins, ZenithNovaTech, gotoworld",2
+imsyy,DailyHot,DailyHot 今日热榜前端页面 | API：https://github.com/imsyy/DailyHotApi,Vue,651,558,"imsyy, MyFaith",4
+frappe,frappe-ui,A set of components and utilities for rapid UI development,Vue,491,164,"netchampfaris, shariquerik, RitvikSardana, surajshetty3416, nextchamp-saqib",1
+frappe,lms,"Easy to Use, 100% Open Source Learning Management System",Vue,1537,662,"pateljannat, anandology, NagariaHussain, frappe-pr-bot, frappe-bot",8
+pipipi-pikachu,PPTist,"PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. Support AIPPT.",Vue,6909,1359,"pipipi-pikachu, hy16657, lhyUnited, missile-xuan, chaoXxxxx",8
+nuxt,ui,The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS.,Vue,4743,707,"benjamincanac, renovate, atinux, romhml, smarroufin",4
+primefaces,primevue,Next Generation Vue UI Component Library,Vue,12453,1440,"tugcekucukoglu, cagataycivici, mertsincan, bahadirsofuoglu, yigitfindikli",7
+CorentinTh,it-tools,"Collection of handy online tools for developers, with great UX.",Vue,28811,3443,"CorentinTh, renovate, cgoIT, sharevb, marvin-j97",23
+broadinstitute,warp,WDL Analysis Research Pipelines,WDL,211,102,"ekiernan, nikellepetrillo, jessicaway, gbggrant, wjdingman1",0
+WebAssembly,wasi-threads,,WebAssembly,154,8,"abrown, yamt, AlexEne, loganek, eloparco",0
+AssemblyScript,assemblyscript,A TypeScript-like language for WebAssembly.,WebAssembly,17285,670,"dcodeIO, MaxGraey, HerrCai0907, jtenner, CountBleck",3
+WebAssembly,binaryen,Optimizer and compiler/toolchain library for WebAssembly,WebAssembly,7820,776,"kripken, tlively, sbc100, aheejin, jfbastien",4
+xmos,lib_i2s,I2S/TDM digital audio interface library,XC,20,29,"ACascarino, ed-xmos, samchesney, xross, xluciano",0
+php,doc-en,English PHP documentation,XML,552,787,"cmb69, vrana, philip, bjori, salathe",0
+zotero-chinese,styles,中文 CSL 样式 - Zotero 中文社区,XML,5549,867,"redleafnew, zepinglee, github-actions, northword, Helloxiaolaodi",3
+uri-templates,uritemplate-test,Tests for URI Template implementations,XSLT,88,21,"mnot, damnhandy, hannesg, dret, baywet",0
+usnistgov,oscal-content,NIST SP 800-53 content and other OSCAL content examples,XSLT,341,137,"wendellpiez, david-waltermire, oscalbuilder, aj-stein-nist, iMichaela",0
+LOLBAS-Project,LOLBAS,Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts),XSLT,7474,1031,"api0cradle, wietze, xenoscr, bohops, Ekitji",5
+11ty,eleventy-base-blog,A starter repository for a blog web site using the Eleventy static site generator.,XSLT,1349,667,"zachleat, traviscibot, mathiasbynens, verlok, clottman",1
+tree-sitter,tree-sitter-agda,Agda grammar for tree-sitter,Yacc,34,16,"banacorn, amaanq, rwe, maxbrunsfeld, typesanitizer",0
+hackclub,dns,🕹 Manage Hack Club's DNS through a GitHub repository,YAML,165,431,"maxwofford, zachlatta, sampoder, prophetorpheus, lachlanjc",0
+usnistgov,macos_security,macOS Security Compliance Project,YAML,1977,238,"robertgendler, golbiga, brodjieski, headmin, boberito",1
+aquaproj,aqua-registry,aqua's Standard Registry,YAML,164,159,"aquaproj-aqua-registry, renovate, suzuki-shunsuke, renovate-bot, ponkio-o",0
+mustache,spec,The Mustache spec.,YAML,390,74,"pvande, jgonggrijp, Danappelxx, gasche, softmoth",0
+kubeflow,manifests,Kubeflow Deployment Manifests,YAML,907,946,"juliusvonkohout, jlewi, kimwnasptd, Bobgy, kubeflow-bot",1
+ansible-lockdown,RHEL8-CIS,Automated CIS Benchmark Compliance Remediation for RHEL 8 with Ansible,YAML,298,177,"uk-bolly, georgenalen, pre-commit-ci, bbaassssiiee, carnells",0
+Neo23x0,signature-base,YARA signature and IOC database for my scanners and tools,YARA,2600,623,"Neo23x0, ruppde, phantinuss, JohnLaTwC, 0xx0d4y",0
+mthcht,awesome-lists,Awesome Security lists for SOC/CERT/CTI,YARA,937,112,"actions-user, mthcht, wikijm, catscrdl",1
+Yara-Rules,rules,Repository of yara rules,YARA,4371,1013,"mmorenog, seifreed, Xumeiquer, jovimon, yararules",2
+lightpanda-io,browser,Lightpanda: the headless browser designed for AI and automation,Zig,8584,200,"krichprollsch, francisbouvier, karlseguin, sjorsdonkers, katie-lpd",90
+tigerbeetle,tigerbeetle,The financial transactions database designed for mission critical safety and performance.,Zig,12237,593,"sentientwaffle, matklad, jorangreef, batiati, cb22",6
+ziglang,zig,"General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",Zig,38701,2804,"andrewrk, kubkon, Vexu, jacobly0, alexrp",42
+capy-ui,capy,"💻Build one codebase and get native UI on Windows, Linux and Web",Zig,2077,78,"zenith391, geon, dvmason, wukgdu, AdjectiveAllison",0
+karlseguin,http.zig,An HTTP/1.1 server for zig,Zig,942,60,"karlseguin, zigster64, bobf, ItsMeSamey, rofrol",4
+kristoff-it,superhtml,HTML Language Server & Templating Language Library,Zig,926,38,"kristoff-it, Arnau478, squeek502, Techatrix, RoloEdits",2
+oven-sh,bun,"Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",Zig,77626,3037,"Jarred-Sumner, dylan-conway, paperclover, nektro, Electroid",26
+zml,zml,Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild,Zig,2226,80,"gwenzek, steeve, Corendos, hugomano, renerocksai",5
+kristoff-it,zine,"Fast, Scalable, Flexible Static Site Generator (SSG)",Zig,892,56,"kristoff-it, MFAshby, veggiemonk, Arnau478, klumme",5
+hexops,mach,zig game engine & graphics toolkit,Zig,3891,178,"alichraghi, iddev5, InKryption, wrench-bot, PiergiorgioZagaria",4
+fairyglade,ly,display manager with console UI,Zig,5994,318,"AnErrupTion, nullgemm, stlaz, liweitianux, moritz-reinel",6
+silbinarywolf,zig-android-sdk,This library allows you to setup and build an APK for your Android devices,Zig,40,3,"silbinarywolf, v3rm0n",2
