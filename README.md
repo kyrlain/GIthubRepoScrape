@@ -1,5 +1,5 @@
 # GithubRepoScrape
-This project will scrape the top 15 repositories, based on the number of stars today. This project is written in python with jupyter notebook. The scraping mechanism is written using the `requests` and `BeautifulSoup` modules. The dataframes is then loaded to a `SQLite` database and a `csv` file.
+This project will scrape the top 15 repositories of each language, based on the number of stars today. This project is written in python with jupyter notebook. The scraping mechanism is written using the `requests` and `BeautifulSoup` modules. The dataframes is then loaded to a `SQLite` database and a `csv` file.
 
 ## Running the notebook
 To run the notebook, an environment must be created and activated first. RUn the following commands
